@@ -8,20 +8,21 @@ This repository contains the implementation for our paper submitted to Interspee
 
 ## Overview
 
-We propose a system for automatically segmenting radio broadcast audio into four semantic categories: **DJ talk**, **Guest talk**, **Music**, and **Advertisement**. The system combines a speaker-diarization-based baseline with two complementary modules that improve music and advertisement detection.
+We propose a system for automatically segmenting radio broadcast audio into four semantic categories: **DJ talk/Guest talk**, **Music**, and **Advertisement**. The system combines a speaker-diarization-based baseline with two complementary modules that improve music and advertisement detection.
 
 ### Pipeline
 
 ```
-Audio (.mp3)
+
+Preprocessed Audio (.mp3)
     |
     v
-[1. ASR + Speaker Diarization]  (WhisperX + pyannote)
+[1. ASR + Speaker Diarization]  (WhisperX)
     |
     v
-[2. Baseline Labeling]          (DJ/GUEST/MUSIC/AD via speaker statistics)
+[2. Baseline Labeling]          ('DJ/GUEST'/MUSIC/AD via speaker statistics)
     |
-    +---> [3. Music Refinement]  (Audio feature-based: dB, RMS)
+    +---> [3. Music Detection]  (Audio acoustic features: dB, RMS..)
     |
     +---> [4. Ad Detection]      (Audio fingerprinting: Panako)
                 |
@@ -31,6 +32,10 @@ Audio (.mp3)
 ---
 
 ## Method
+
+### Stage 0 - Preprocessing data
+Vocals only, Musics only
+
 
 ### Stage 1 & 2 — Baseline (Speaker-Diarization-Based Labeling)
 
@@ -46,21 +51,25 @@ Audio (.mp3)
 
 **`dj/merge_block.py`** — Merges consecutive same-type segments into blocks. Adjacent DJ and GUEST segments are merged into `DJ/GUEST` blocks.
 
-### Stage 3 — Music Refinement (Audio Feature-Based)
+### Stage 3 — Music detection (Audio Feature-Based)
 
-The 100-second gap heuristic in the baseline misses short music segments and is sensitive to speech-over-music. The music refinement module analyzes audio features (dB levels, RMS energy) to detect music regions more accurately, producing `selection_music.csv` for each broadcast.
+The 100-second gap heuristic in the baseline misses short music segments and is sensitive to speech-over-music. This module operates on source-separated audio (music stem and vocal stem, e.g. via Demucs) to detect music regions more accurately.
+
+**`music/detect_selection_music.py`** — `SelectionMusicDetector` runs a 4-step pipeline:
+1. **High-energy detection**: computes RMS energy on the music stem; frames above -38 dB are marked as candidates.
+2. **Segment merging**: adjacent candidate segments within a 20-second gap are merged.
+3. **Duration filter**: merged segments shorter than 60 seconds are discarded.
+4. **Vocal/music refinement**: for each remaining segment, per-frame RMS is compared between the vocal and music stems. Frames where music is active and vocals are absent (instrumental) or closely mixed (singing) are retained. Segments passing a 70% smoothed validity threshold and lasting at least 100 seconds are emitted as final music intervals, saved to `{date}-selection_music.csv`.
 
 **`music/extract_playlist.py`** — Uses GPT-4o to extract song title and artist information by analyzing DJ talk context (up to 400 s window) surrounding each detected music block. Handles ASR transcription errors via prompt-level correction rules.
 
+**`music/auto_eval.py`** — Batch runner: iterates over a date range and calls `extract_playlist.py` for each date that has a `selection_music.csv` present.
+
+**`music/evaluate_music_blocks.py`** / **`music/evaluate_music_overall_all.py`** — Evaluation scripts comparing detected music intervals against manually annotated ground truth (SBS, KBS, MBC) using IoU-based metrics.
+
 ### Stage 4 — Advertisement Detection (Audio Fingerprinting)
 
-**`ad/detector.py`** — Splits the broadcast into short clips and queries each clip against a multi-day Panako fingerprint database. A clip is considered a candidate advertisement if it matches audio from at least 2 other broadcast days with sufficient score.
-
 **`ad/cluster-max.py`** — Clusters candidate clips into ad blocks. Clips within a 30-second gap are merged into the same cluster.
-
-**`ad/parse_panako_results_to_ads.py`** — Applies stricter thresholds (matched days >= 3, score >= 200, duration >= 15 s) to produce final ad block boundaries.
-
-**`ad/merge_ad_results.py`** — Aggregates Panako results across a 7-day window to build a cross-day advertisement database.
 
 **`ad/whisper_ad_faster.py`** — Transcribes detected ad clips using faster-whisper to enable product-name-level identification.
 

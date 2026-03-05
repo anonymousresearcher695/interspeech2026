@@ -1,0 +1,352 @@
+﻿Type,Start Time,Stop Time,Duration,Transcript,Speakers,Dominant_Speaker,Predicted_Label
+speech,0.03,7.75,7.72,당신을 지키는 EHL 바이오가 6시를 알려드립니다.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,41.68,50.25,8.57,겸손하게 한 해를 시작하든 야심차게 한 해를 시작하든 속도보다 역시 방향부터 생각하게 됩니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,50.27,53.21,2.9399999999999977,어떤 아이사키 선수가 이렇게 말했습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,53.23,59.45,6.220000000000006,나는 퍽이 있었던 곳이 아니라 앞으로 갈 곳을 향해 움직인다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,59.73,69.64,9.910000000000004,신년운세가 좋든 나쁘든 상관없이 굿뉴스와 나쁜 소식과 다소 불안한 전망이 뒤섞인 상태에서도 방향 탐색부터 합니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,76.24,86.53,10.290000000000006,해마다 그랬지만 올해도 역시 온갖 노이즈와 온갖 시그널 속에서 첫 일출을 맞았고 이제는 마음을 가다듬고 있습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,86.55,91.84,5.290000000000006,올해가 어떤 해가 될지는 전혀 알 수 없지만 그래도 하나 확실한 것이 있습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,93.1,99.77,6.670000000000002,과거의 거기도 아니고 지금의 여기도 아니고 앞으로의 저기를 향해 열심히 나아갈 거라는 마음.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,100.79,103.81,3.019999999999996,그 하나라도 확실히 하려 합니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,114.55,122.28,7.730000000000004,저 먼 우주로 떠난 지 오래인 스티븐 호킹이 우리를 응원합니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,122.3,127.56,5.260000000000005,용감하게 호기심을 가지고 단호하게 장애물을 극복하자.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,127.58,131.83,4.250000000000014,우리는 그렇게 할 수 있다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,131.85,135.31,3.460000000000008,1월 4일 일요일입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,135.33,138.5,3.1699999999999875,배철수의 음악 템프는 지금 4일간의 특집 방송.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,138.52,140.4,1.8799999999999957,2025년 팝뮤직 청결상.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,141.92,146.14,4.219999999999999,오늘은 재즈 음악을 함께하는 시간입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,146.16,153.07,6.909999999999997,먼저 재즈 차트는 스무드 재즈 에어플레이 송스 차트하고요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,153.09,155.53,2.4399999999999977,재즈 앨범 차트가 있습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,155.55,160.22,4.669999999999988,스무드 재즈 에어플레이 송스 차트부터 보겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,160.24,163.18,2.9399999999999977,10위부터 봅니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,163.2,168.99,5.7900000000000205,마리언 매도우스 미국의 소프라노 섹터폰 연주자입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,170.18,177.99,7.810000000000002,음악 제목이 AI Moonrise인데 실제로 AI를 활용해서 만들었다고 해요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,178.17,179.87,1.700000000000017,제주도까지.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,179.89,181.47,1.5800000000000125,"자, 12곡으로 출발합니다.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,182.22,192.85,10.629999999999995,"마리은 메더우스, AI Moonrise.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,210.58,223.14,12.559999999999974,감사합니다.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,374.79,379.78,4.989999999999952,마리언 매더우스의 AI 문 라이즈 들었습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,379.8,391.54,11.740000000000007,AI를 활용해서 작곡했다고 하는데 도대체 어디까지가 AI를 활용한 건지가 사실 경계가 모호하잖아요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,391.62,399.31,7.689999999999998,AI가 99% 작곡하고 1%만 사람이 개입했다면 그걸,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,400.98,402.72,1.740000000000009,같이 했다고 할 수 있는 건가?,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,402.74,405.27,2.5299999999999727,같이 한 건 맞긴 한데 애매합니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,406.11,413.7,7.589999999999975,앞으로 음악계는 AI 때문에 애매해질 것 같아요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,414.45,422.18,7.730000000000018,아무튼 스무드 재즈 에어플레이 송스 차트 10위 마리언 매더우스의 AI Moonrise 들었습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,422.2,422.92,0.7200000000000273,9위는,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,424.1,428.73,4.629999999999996,마커스 앤더슨의 Anyway You Want It.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,428.75,433.11,4.360000000000014,저니의 노래하고 제목은 같습니다만 아무 상관없습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,433.13,453.97,20.840000000000032,광고 뒤에 듣겠습니다.,SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,453.95,474.2,20.25,언니 본 너 껌쩍 입었구나 안착 편하니까 안착 팬티 엉덩이에 착 안착 팬티 안 껴 안 끼니까 안착 팬티 엉덩이에 착 착착착착착 엉덩이에 착 착착착착착착착 안착 팬티 착,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,474.19,498.99,24.80000000000001,자꾸자꾸 이비가 이비가 짬뽕 이비가 짬뽕 모델 김태균입니다 국물 맛은 칼칼한데 자극적이지 않아 속은 편안한 남녀노소 모두가 완뽕하게 되는 바로 그 짬뽕 이비가 이비가요 이비가 짬뽕 일일 일짬뽕 오케이 서울사이버대학을 다니고 나의 성공시대 시작됐다,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,499.97,514.39,14.41999999999996,"서울사이버대학을 다니고 반려동물산업학과, 스포츠지도학과, 응용수학통계학과 등 사이버대 최대 49개 학과 전공해서 지금 신입생, 편입생을 모집 중입니다.",SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,526.28,528.32,2.0400000000000773,"서울사이버대학교 지밴, 지밴, 지밴, 지밴 너무너무 편해 스타일도 멋져 이럴 때는 역시 지밴인걸 지지지지 밴, 밴, 밴 이모보면 알아듣대로 좋아 작업복은 역시 지밴인걸",SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,530.06,532.04,1.9800000000000184,대한민국 대표 워크웨어 지벤.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,532.56,534.02,1.4600000000000364,일하는 지금은 지벤 시대.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,535.09,538.43,3.339999999999918,세계 10대 슈퍼푸드 브로콜리.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,538.45,540.73,2.2799999999999727,겨울엔 브로콜리 카레 어떠세요?,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,541.58,544.7,3.1200000000000045,겨울의 카레 브로콜리 카레.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,544.72,550.87,6.149999999999977,계절마다 카레를 다르게 계절마다 카레를 맛있게 카레로 계절을 맛보세요.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,550.95,566.82,15.870000000000005,"고혈압, 당뇨, 디스크가 있어도 몇 가지 질문만으로 간편하게 가입 가능!",SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,566.84,570.62,3.7799999999999727,유병자 걱정 덜어주는 현대해상 간편건강보험!,SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,570.64,574.29,3.649999999999977,심사기준에 따라 가입이 제한될 수 있으니 유의사항을 확인하세요.,SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,574.74,579.91,5.169999999999959,맑은 물이 흐르고 온도 변화가 크지 않은 까다로운 곳에서 자라는 와사비.,SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,580.67,584.51,3.840000000000032,주비푸드는 그런 와사비의 뿌리 부분만을 엄선해 사용합니다.,SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,585.2,600.61,15.409999999999968,"소비자들을 존중하기에 좋은 원료, 정직한 표기를 약속합니다.",SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,600.63,600.95,0.32000000000005,아름다운 식탁 창조 주비푸드.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,600.97,601.49,0.5199999999999818,미미미르 에셋 미미르 에셋 투자하는 미미라 에셋,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,605.81,616.65,10.840000000000032,안녕하세요.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,616.81,619.84,3.0300000000000864,노란우산 홍보대사 탁재훈입니다.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,619.86,625.71,5.850000000000023,세금 걱정에 노후 걱정까지 요즘 사장님들 참 걱정이 많으시죠.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,625.73,629.79,4.059999999999945,이제 노란우산이 사장님 걱정을 탁 덜어드릴게요.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,632.15,645.83,13.680000000000064,매년 최대 600만 원 소득공제에 구금내 대출 지원은 물론 복리이자로 퇴직금 역할까지 대한민국 사장님 곁엔 언제나 노란우산이 함께합니다.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,645.85,651.58,5.730000000000018,사장님의 걱정을 탁 덜어들이는 든든한 희망자산 노란우산.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,801.05,804.25,3.200000000000045,시청해주셔서 감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,888.74,918.71,29.970000000000027,"섹스폰 현주자 마커스 앤더슨의 Anyway You Want It 스무드 재즈 에어플레이 송스 차트 9위 곡이었습니다 2025년 팝뮤직 총결산 오늘은 재즈 차트입니다 1, 2부의 스무드 재즈 에어플레이 송스 차트 소개해드립니다 8위는 피아니스트 리사 아디오 리사 아디오의 웨스트바",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,919.33,923.58,4.25,7위가 역시 피아노 연주자입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,923.6,924.28,0.67999999999995,케일라 워터스.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,924.9,932.91,8.009999999999991,케일라 워터스는 데이비 코즈가 투어 다닐 때 이 투어팀에서 피아노를 연주를 하게 됐어요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,932.93,935.27,2.340000000000032,케일라 워터스의 마우키 문.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,936.45,937.55,1.099999999999909,두 곡을 계속 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,937.71,939.75,2.039999999999964,먼저 8위.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,939.77,944.7,4.930000000000064,리사 아디오.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,944.72,944.78,0.0599999999999454,웻바.,UNKNOWN:1.00s(1.000),,AD
+speech,1423.81,1429.62,5.809999999999945,"카일라 워터스, 마우키 문, 7위 곡 들었고요.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1430.14,1435.37,5.229999999999791,"앞에 들으시는 음악은 리사 디오, 웻바였습니다.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1437.31,1439.17,1.8600000000001276,8위 곡.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1439.19,1445.58,6.389999999999873,"스무드 재즈 에어플레이 송스, 6위 기타리스트 노만 브라운.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1446.03,1448.52,2.490000000000009,피처링 탐 슈만.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1448.54,1451.6,3.059999999999945,탐 슈만은 피아니스트입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1451.62,1456.73,5.110000000000127,탐 슈만이라는 친구가 아주 어리네.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1456.75,1463.89,7.1400000000001,10대 중반부터 스파이로 자이라라는 아주 유명한 컨템포러리 재즈 밴드 있잖아요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1463.91,1470.4,6.490000000000009,그 팀의 멤버로 활동을 했다고 그래요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1470.42,1470.52,0.099999999999909,탐 슈만.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1470.8,1475.67,4.870000000000118,노만 브라운 피처링 탐 슈만의 스트롤링 6위 곡 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1487.95,1488.82,0.8699999999998909,감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,1693.78,1701.6,7.819999999999936,노만브라운 피처링 탐슈만의 스트롤링 들었습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1701.62,1722.57,20.950000000000045,이제 광고 뒤에 오이고 계속 나갑니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,1723.63,1747.81,24.17999999999984,악보 찾으려면 어디로 가야 되지 악보부터 받아 여기는 악보바다 악보 찾다 열받아 컴다운 악보바다 퀄리티가 달라 여기는 악보바다 컴온 요 악보바다 세상 모든 악보 온라인도 모바일도 여기서 다 다운받아 뮤직디자이너 악보바다 비데 살 땐 당당하게 3년 애플 비데,SPEAKER_10:1.00s(1.000),SPEAKER_10,AD
+speech,1748.18,1776.7,28.519999999999985,전국 무료 설치는 애플 비데 온가족 믿고 쓰는 애플 비데 3년 무상 AS부터 전국 무료 설치까지 비데는 역시 당당하게 3년 애플 비데 애플,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,1778.91,1802.81,23.899999999999864,수원여자대학교 수원여자대학교,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,1809.92,1818.88,8.960000000000036,"언제나 당신 곁에, MG 새마을금고와 함께하는 날씨와 생활입니다.",SPEAKER_17:1.00s(1.000),SPEAKER_17,AD
+speech,1818.9,1823.95,5.0499999999999545,"새해 첫 월요일인 내일, 절기상 소환이지만 큰 추위는 없겠습니다.",SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1823.97,1827.67,3.7000000000000455,당분간 기온이 평년 수준과 비슷하거나 조금 높겠는데요.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1828.21,1835.74,7.529999999999973,"내일 아침엔 서울 영하 4도, 대구 0도로 출발해 한낮에 서울 영상 2도, 대구는 7도까지 오르겠습니다.",SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1835.76,1838.67,2.910000000000082,그래도 경기 북부와 강원 내륙 산지는,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1838.65,1864.94,26.289999999999964,연민주였습니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1866.52,1871.69,5.170000000000073,언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활이었습니다.,SPEAKER_17:1.00s(1.000),SPEAKER_17,AD
+speech,1955.52,1956.12,0.599999999999909,감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,2139.04,2145.31,6.269999999999982,기타가 진짜 물 흐르듯이 연주를 하네.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2145.33,2147.23,1.900000000000091,블레이크 아론이라는 기타리스트.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2147.25,2150.36,3.1100000000001278,LA 출신 기타리스트.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2150.38,2157.03,6.650000000000091,데뷔했을 때부터 LA 타임즈에서 와 기타 천재다 이런 찬사를 들었습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2157.05,2160.24,3.1899999999996,블레이크 아론의 Let's Get Lost.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2161.01,2187.96,26.949999999999815,5위 곡 들었습니다 스무드 재즈 에어플레이 송스 차트입니다 4위는 데이브 코즈 백햄 친구랑 왔네 드디어 데이브 코즈 섹스폰 연주자 그리고 우리나라에도 자주 왔죠 데이브 코즈는 그 다음에 기타리스트 애덤 호울리가 함께한 오토매틱이라는 작품이에요 애덤 호울리는,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2189.28,2205.18,15.899999999999636,"솔로로 데뷔하기 전에도 제니퍼 로페즈나 브라이언 맥나잇, 네탈리 콜 그리고 맨하튼 트랜스포 같은 세계적인 아티스트의 투어도 하고 또 음반 녹음도 함께한 기타리스트입니다.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2205.2,2210.73,5.5300000000002,"데이비 코우즈, 애덤 호울리의 오토매틱 3위는",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2213.05,2216.88,3.8299999999999272,이 친구는 악기를 정말 여러 가지 해요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2217.84,2221.25,3.4099999999998545,"기타, 베이스, 색소폰 모두 연주합니다.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2221.27,2223.39,2.119999999999891,멀티 인스트루멘탈리스트라고 할 수 있죠.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2224.25,2227.96,3.710000000000037,조지 벤슨으로부터 가장 크게 영향을 받았다고 얘기를 합니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2228.38,2232.76,4.380000000000109,라이언 라 발렛 뉴질랜드 출신이에요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2234.05,2237.6,3.549999999999727,라이언 라 발렛의 데이드리밍.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2237.62,2238.78,1.1600000000003092,3위 곡.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2238.8,2239.8,1.0,두 곡을 계속 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2239.82,2245.42,5.599999999999909,먼저 4위 데이브 코즈 앤 애덤 호울리 오토매틱.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2510.63,2514.7,4.069999999999709,감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,2540.6,2541.01,0.4100000000003092,감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,2686.55,2688.96,2.4099999999998545,감사합니다.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,2772.64,2775.83,3.1900000000000546,연주들이 진짜 좋죠.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2775.91,2780.3,4.390000000000327,4위 데이비 코즈하고 애덤 홀리의 오토매틱.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2780.36,2783.9,3.539999999999964,3위 라이언 라발렛의 데이드리밍.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2784.46,2786.45,1.9899999999997815,이렇게 두 곡 들었습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2786.49,2788.57,2.080000000000382,2025년 파미즉 총결산.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2791.57,2793.36,1.7899999999999636,재즈 차트 결산입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2793.38,2798.16,4.779999999999745,스무드 재즈 에어플레이 송스 차트 2위 곡.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2799.49,2802.55,3.0600000000004,캐나다의 기타리스트입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2803.17,2806.99,3.819999999999709,레 샤블러.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2807.01,2807.17,0.1599999999998544,패치스 그루브.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,2994.92,2998.16,3.2399999999997817,감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,3054.25,3079.11,24.860000000000127,맛있는 돼지고기가 왔어요 우리 아이 도드람 우리 남편 도드람 우리 가족 도드람 든든해요 도드람 맛있는 도드람이 우리 집으로 왔어요 맛있는 우리 돼지 도드람 온라인에서도 도드람 올리지요 피부에 닿는 느낌 올리지요,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,3095.51,3113.89,18.37999999999965,이 광고는 건강기능식품광고입니다.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,3113.87,3118.36,4.4900000000002365,폐암 환자나 그 유가족은 직업형 산재보상 대상이라는 거 알고 계신가요?,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3118.82,3123.41,4.589999999999691,과거 건설 현장이나 공장과 같은 환경에서 일했던 분이라면 가능합니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3123.43,3125.12,1.6900000000000546,일용직도 가능합니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3125.14,3128.43,3.289999999999964,노무법인 폐가 직접 해결해드리겠습니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3128.74,3129.59,0.8500000000003638,폐암 산재보상 전문,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3129.57,3137.34,7.769999999999982,1544-7575 IS동서는 봅니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3137.6,3152.55,14.950000000000273,쓸모없던 땅에서 친환경 건설의 내일을 세우고 폐기물에서 전기차의 새로운 미래를 만들고 아이들에게 희망의 세상을 열어주는 ESG 경영으로 더 큰 내일을 봅니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3152.57,3156.1,3.5299999999997453,IS동서 싱크볼 바꿀 때 되셨죠?,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3160.8,3177.87,17.06999999999971,싱크대를 바꾸는 싱크볼 백조 싱크볼 오래된 싱크대 이제 싱크볼만 바꿔보세요 60년 주방 전문 백조 싱크 백조 싱크 고규필 고객님 어?,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3180.69,3185.7,5.009999999999764,왔다!,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3185.72,3185.84,0.1200000000003456,재미가 와!,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3185.86,3186.0,0.1399999999998726,놀라움이 와!,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3186.02,3186.14,0.1199999999998908,혜택이 와!,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3186.16,3186.42,0.2600000000002183,재미있게 놀랍게 다양하게,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3187.8,3204.25,16.449999999999818,와 보고 싶은 뱅크 고규필도 와 뱅크 광주은행 통합형 AI 고객센터 믿고 맡길 수 있어?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,3204.27,3213.44,9.170000000000073,"TTC, TWC는 달라 비용도 효율도 모두 계란찌 운영 비용 다운 상담 퀄리티는 UP AI 전문기업 TWC 통합형 AI 고객센터는 TWC",SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,3217.3,3220.66,3.3599999999996726,배출수의 음악 캠프입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3220.68,3227.69,7.010000000000218,2025년 팝뮤직 총결산 재즈 차트 결산입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3227.71,3233.68,5.9699999999998,스무드 재즈 에어플레이 송수 차트 1위는 설명이 필요 없는 색소폰 연주자죠.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3233.7,3239.0,5.300000000000182,보니 제임스 슬라이드입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3239.1,3239.99,0.8899999999998727,시간이 얼마 안 남아서요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3242.05,3244.81,2.7599999999997635,3부 첫 곡으로 다시 보내드릴 겁니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3367.52,3369.74,2.2199999999998,꿈꾸는 당신이 아름답습니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3371.0,3374.38,3.380000000000109,사람마다 중점을 두는 생활 습관이 있죠.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3374.4,3378.54,4.139999999999873,허핑턴포스트의 창립자 아리아나 허핑턴은 이겁니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3378.56,3382.29,3.730000000000018,나는 수면 시간을 신성 불가침의 영역으로 여긴다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3382.31,3387.43,5.119999999999891,먼저 모든 전자기기를 끄고 그걸 다 침실 밖으로 내보낸다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3387.45,3393.02,5.570000000000164,초를 밝힌 다음 목욕을 하고 잘 때는 평상복 말고 꼭 잠옷을 입는다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3393.04,3400.36,7.320000000000164,캐모마일이나 라벤더 차를 마시기도 하고 시나 소설같이 일과 전혀 관계없는 책을 읽기도 한다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3400.34,3406.55,6.210000000000036,"이렇게 8시간은 꼭 잔다고 하는데 충분한 수면, 편안한 잠.",SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3406.57,3412.81,6.239999999999782,이것도 새해 소망 리스트에 놓을 만하죠?,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3412.83,3426.05,13.220000000000256,"MBC 캠페인 꿈의 지도, SK 브로드밴드 소상공인 더드림 성공 패키지가 함께합니다.",SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3426.07,3428.63,2.559999999999945,지금 시각은 6시 57분입니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3433.69,3434.21,0.5199999999999818,안녕하세요.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,3434.65,3436.07,1.4200000000000728,이정재입니다.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,3436.09,3444.28,8.190000000000055,70년 현대해상의 여정을 함께해주신 고마운 모든 분들을 위해 마음이 합니다.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,3462.72,3462.8,0.0800000000003819,현대해상,UNKNOWN:1.00s(1.000),,AD
+speech,3463.98,3467.38,3.400000000000091,피부가 부들부들하니 온천 다녀온 것 같네 엄마 온천 갔다 왔어?,SPEAKER_18:1.00s(1.000),SPEAKER_18,AD
+speech,3467.76,3492.62,24.859999999999676,온천은 뭐하러 가 비드부들 바디워시 쓰면 되는데 우와 피부가 부들부들해 그치 피지가 55.6% 줄고 윤기는 17.6%나 증가한데 이름값 하네 몽잘 비드부들 바디워시 잘 만들었다 몽잘 아파 본 사람은 압니다 아프지 않은 일상이 얼마나 소중한지를 당신의 건강이 흔들릴 때 어떤 순간에도 당신을 지킵니다,SPEAKER_18:1.00s(1.000),SPEAKER_18,AD
+speech,3492.72,3498.72,6.0,"줄기세포, 면역세포를 위한 EHL 바이오만의 솔루션은 이미 시작되었습니다.",SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,3498.74,3515.03,16.29000000000042,당신을 지킵니다.,SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,3515.05,3515.29,0.2399999999997817,오늘 주문 내일 도착!,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,3515.31,3515.79,0.4800000000000182,빠른 인쇄가 필요할 땐 와우프레스가 정답!,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,3516.71,3541.99,25.279999999999745,요즘 덕질 어디 요즘 홍보 어디 요즘 인쇄 어디 인쇄는 월프레스 커져라 친환경 친환경 농산물 무농약으로 밑풀 먹지 친환경 농산물 유기농으로 건강하자 친환경 농산물 자조금 관리위원회가 함께합니다 친환경 농산물,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,3544.17,3561.45,17.279999999999745,코 입술 주름 개선을 위해 피부 깊은 곳부터 자연스럽게 PLLA로 부드럽게 채우다.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,3562.21,3562.31,0.099999999999909,올리디아.,UNKNOWN:1.00s(1.000),,AD
+speech,3563.49,3589.8,26.3100000000004,입학이고 취업 졸업이고 취업 수원여자대학교 여성비도 양성 미래를 만드는 수원여자대학교 세상을 바꾸는 여성의 힘 수원 수원여자대학교 건강을 생각하는 위더스 생명을 존중하는 위더스,SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,3591.07,3607.67,16.59999999999991,생명존중을 실천하는 위더스 제약에서 7시를 알려드립니다.,SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,3844.95,3865.3,20.350000000000364,보니 제임스의 슬라이드 들었습니다 스무드 재즈 에어 플레이 송스 차트 1위 곡입니다 스무드 재즈만 방송하는 방송사들이 쫙 있거든요 그런 방송에서 이 곡이 제일 많이 나갔다는 얘기에요,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3865.54,3868.44,2.900000000000091,보니 제임스의 슬라이드.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3868.46,3871.05,2.590000000000145,2025년 팝뮤직 총결산.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3871.07,3872.87,1.7999999999997272,오늘 재즈 차트입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3872.89,3875.97,3.0799999999999272,이제 재즈 앨범 차트 보겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3875.99,3880.88,4.890000000000327,재즈 앨범은 가장 많이 팔린 앨범들 순위입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3880.9,3883.88,2.980000000000018,10위가 마이클 부블레.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3884.02,3887.79,3.769999999999982,The Best of Bublé.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3887.81,3889.77,1.9600000000000364,이 앨범에 진짜 좋은 음악들 많거든요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,3891.51,3920.67,29.15999999999985,"재즈 명곡들이 쫙 있습니다 저도 한 장 사고 싶어요 마이클 부블레의 The Best of Bublé 이 앨범에서 Feeling Good 듣겠습니다 광고 먼저 듣고요 맑은 물이 흐르고 온도 변화가 크지 않은 까다로운 곳에서 자라는 와사비 주비푸드는 그런 와사비의 뿌리 부분만을 엄선해 사용합니다 소비자들을 존중하기에 좋은 원료, 정직한 표기를 약속합니다",SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,3921.36,3926.93,5.569999999999709,안전화가 이렇게 편해도 돼요?,SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,3926.95,3929.06,2.1100000000001278,나도 모르게 집에까지 신고 간다니까요.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,3929.58,3933.05,3.4700000000002547,우린 발이 건강해야 하니까 안전화 아무거나 못 신어요.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,3933.43,3935.68,2.25,내가 안전해야 가족이 안심하지.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,3936.02,3938.0,1.9800000000000184,그래서 난 꼭 워킹만 신어.,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3937.98,3950.26,12.2800000000002,워킷 안전화를 고집하는 확실한 이유가 있다 생각의 차이가 만드는 가치 워킷 워킷 안전화 최유라의 메디솔라 시대 여러분 오늘도 건강한 식사 하셨나요?,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,3950.8,3954.09,3.289999999999964,나를 위한 한 끼 챙기기 정말 어려우시죠?,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3954.11,3963.92,9.809999999999944,전문가들이 만든 영양 밸런스 식단 메디솔라와 함께 해보세요 저 최유라도 케어 받는 똑똑한 맞춤 영양 식단은 메디솔라,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3966.77,3988.66,21.889999999999876,Birds flying high You know how I feel Sun in the sky You know how I feel Breeze drifting on by,SPEAKER_10:1.00s(1.000),SPEAKER_10,MUSIC
+speech,3989.57,4012.03,22.46000000000004,You know how I feel It's a new dawn It's a new day It's a new life For me And I'm feeling good,SPEAKER_10:1.00s(1.000),SPEAKER_10,MUSIC
+speech,4196.61,4210.87,14.260000000000218,노예 참 편하게 해요 마이클 부블레 Feeling Good 들었습니다 재즈앨범 차트 12앨범 The Best of Bublé에서 들었습니다,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4211.2,4239.68,28.480000000000476,2025년 팝뮤직 총결산 재즈 차트 재즈 앨범 차트입니다 9위는 아이슬란드의 신성 신성도 아니죠 주류가 됐죠 레이베이 노래 진짜 잘해요 99년생인데 레이베이의 A Matter of Time 8위 앨범도,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4240.77,4269.86,29.08999999999924,레이베이의 Everything I Know About Love 앨범 주장이 나란히 올라있는 거예요 레이베이의 인기가 얼마나 대단한지 알 수 있죠 레이베이의 A Matter of Time 앨범에서는 Love a Girl 듣고요 8위 앨범 Everything I Know About Love에서는 Fragile 스팅의 Fragile 아닙니다 제목만 같은 거예요 두 곡을 계속 듣겠습니다 먼저,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4272.01,4295.19,23.17999999999938,a matter of time.,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,4295.21,4296.07,0.8599999999996726,a matter of time.,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,4399.26,4424.49,25.229999999999563,I'm working overtime You've become my whole world What a curse it is to be a lover girl,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,4438.75,4466.69,27.9399999999996,Will you let me come closer to you,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,4468.28,4478.39,10.110000000000582,i know that you're older but what can i do i leave in the morning,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,4558.24,4580.65,22.40999999999985,It's been a year and forty days Since you picked me up and swept me away I wanted to run with you Into the midnight sun with you,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,4609.42,4632.27,22.850000000000364,The music so slow Your skin on my skin The room kept spinning round I'm alone New town on my own I'm missing you I shouldn't be I lost all sense of it,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,4655.91,4664.01,8.100000000000364,시청해주셔서 감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,4669.39,4671.78,2.389999999999418,매력적이죠?,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4671.8,4691.93,20.13000000000011,격한 신비하며 그렇다고 또 뭐 약간 또 따스함도 있고 여러가지 느낌이 있습니다 아이슬란드의 레이베이 A Medal of Time 앨범 9위 앨범에서 Love a Girl,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4692.14,4703.19,11.049999999999272,8위 앨범 Everything I Know About Love에서 Fragile 두 곡 들었습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4703.21,4708.28,5.069999999999709,재즈 앨범 차트 7위는 프렌치 나트라의 Ultimate Christmas입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4709.56,4717.39,7.829999999999927,크리스마스 시즌에 앨범이 얼마나 팔렸으면 이게 연말 결산 차트 7위에 있겠습니까?,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4717.4,4728.46,11.0600000000004,그리고 한마디로 또 앨범 판매량들이 많이 줄었다는 것에 반증이기도 하고요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4728.48,4732.22,3.740000000000691,"7위, Ultimate Christmas, Frank Sinatra.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4732.24,4734.38,2.1400000000003274,이 크리스마스 송들 쭉 있는데,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4735.09,4737.81,2.7200000000002547,지난 크리스마스에 저는 이 노래 한 번도 못 들었거든요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4738.51,4740.02,1.5100000000002185,징글벨스.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4740.04,4745.16,5.119999999999891,저희들이 어렸을 때는 이게 대표적인 캐롤이었는데 징글벨스.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4745.18,4747.93,2.75,프랑스 나트라 목소리를 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4747.95,4754.72,6.770000000000437,6위는 사운드트랙 빈스 과랄디 트리오의 찰리 브라운 크리스마스.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4754.74,4759.16,4.420000000000073,이 앨범에서는 라이너스 앤 루시 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4759.19,4762.53,3.340000000000145,먼저 프랑스 나트라 징글벨스.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,4772.92,4796.31,23.390000000000327,"Those holiday J-I-N-G-L-E bells Those happy J-I-N-G-L-E-V-E-L-L-S I love those J-I-N-G-L-E bells Jingle bells, jingle bells, jingle all the way",SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,4796.72,4812.95,16.229999999999563,"Oh what fun it is to ride in a one horse open sleigh Jingle bells, jingle bells, jingle all the way Oh what fun it is to ride in a one horse open sleigh",SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,4847.24,4851.21,3.970000000000255,징징글 벨스 징글 all the way,SPEAKER_09:1.00s(1.000),SPEAKER_09,AD
+speech,4851.63,4879.34,27.71000000000004,"Oh, what fun it is to ride in a one-horse open sleigh I love those J-I-N-G-L-E bells Those holiday J-I-N-G-L-E bells Those happy J-I-N-G-L-E-P-E-L-L-S I love those jingle bells all the way Jingle all the way",SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,4940.22,4942.91,2.6899999999996,감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,5064.49,5066.95,2.4600000000000364,빈스 과랄디 트리오.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5067.77,5073.6,5.829999999999927,찰리 브라운 크리스마스 사운드트랙에서 라이너스 앤 루시 들었습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5073.62,5075.24,1.6199999999998909,6위 앨범이에요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5075.26,5084.8,9.539999999999964,앞에 들으신 음악은 7위 앨범 프랭크 스나트라의 얼티밋 크리스마스에서 징글벨스 들었고요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5084.82,5085.84,1.0200000000004366,자 크리스마스.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5087.91,5091.7,3.789999999999964,또 한 곡 들어야 될 것 같은데요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5091.72,5096.41,4.6899999999996,5위에 네킹코울의 The Christmas Song이 있습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5096.43,5104.0,7.569999999999709,이 앨범에도 유명한 노래들이 있습니다만 앨범 타이틀곡 The Christmas Song 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5104.02,5104.48,0.4599999999991269,네킹코울,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5118.98,5147.52,28.540000000000877,Chess nuts roasting on an open fire Jack Frost nipping at your nose Yuletide carols being sung by a choir And folks dressed up like Eskimos Everybody knows,SPEAKER_08:1.00s(1.000),SPEAKER_08,MUSIC
+speech,5148.24,5166.03,17.789999999999964,A turkey and some mistletoe Help to make the season bright Tiny tots with their eyes all aglow,SPEAKER_08:1.00s(1.000),SPEAKER_08,MUSIC
+speech,5166.62,5185.69,19.06999999999971,We'll find it hard to sleep tonight They know that Santa's on his way He's loaded lots of toys and goodies on his sleigh,SPEAKER_08:1.00s(1.000),SPEAKER_08,MUSIC
+speech,5186.85,5214.9,28.049999999999272,And every mother's child is gonna spy To see if reindeer really know how to fly And so I'm offering this simple phrase To kids from one to many too,SPEAKER_08:1.00s(1.000),SPEAKER_08,MUSIC
+speech,5215.16,5226.04,10.88000000000011,although it's been said many times many ways merry christmas to you,SPEAKER_08:1.00s(1.000),SPEAKER_08,MUSIC
+speech,5255.41,5284.09,28.68000000000029,"And so I'm offering this simple phrase To kids from one to ninety-two Although it's been said many times, many ways Merry Christmas to you",SPEAKER_08:1.00s(1.000),SPEAKER_08,MUSIC
+speech,5284.52,5311.34,26.81999999999971,아 이 목소리 아 더 크리스마스 송 넥킹 콜 자 시간 다 됐는데요 다음 광고 뒤에 들으실 겁니다 And now the end is near And so I face,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5312.77,5322.7,9.929999999999382,mbc fm for you,SPEAKER_13:1.00s(1.000),SPEAKER_13,MUSIC
+speech,5323.91,5327.35,3.4400000000005093,피부가 부들부들하니 온천 다녀온 것 같네 엄마 온천 갔다 왔어?,SPEAKER_18:1.00s(1.000),SPEAKER_18,AD
+speech,5327.72,5347.79,20.06999999999971,온천은 뭐하러 가 비드부들 바디워시 쓰면 되는데 우와 피부가 부들부들해 그치 피지가 55.6% 줄고 윤기는 17.6%나 증가한대 이름값 하네 몽잘 비드부들 바디워시 잘 만들었다 몽잘 비대 살 땐 당당하게 3년 애플 비대 애플,SPEAKER_18:1.00s(1.000),SPEAKER_18,AD
+speech,5348.11,5362.56,14.450000000000728,전국 무료 설치는 애플 비데 온 가족 믿고 쓰는 애플 비데 3년 무상 AS부터 전국 무료 설치까지 비데는 역시 당당하게 3년 애플 비데 애플,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,5363.4,5374.96,11.5600000000004,커져라 친환경!,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,5374.98,5381.63,6.650000000000546,친환경 농산물 무농약으로 믿고 낫지 친환경 농산물 유기농으로 건강하자 친환경 농산물 자조금 관리위원회가 함께합니다.,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,5381.65,5381.79,0.1400000000003274,친환경 농산물,UNKNOWN:1.00s(1.000),,AD
+speech,5384.08,5410.42,26.340000000000146,반총물 대박날까 불안하네.,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,5410.66,5410.72,0.0600000000004001,반총물,UNKNOWN:1.00s(1.000),,AD
+speech,5412.69,5418.88,6.190000000000509,언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활입니다.,SPEAKER_17:1.00s(1.000),SPEAKER_17,AD
+speech,5418.9,5424.86,5.960000000000036,내일 1년 중 가장 춥다고 알려진 절기 소한이지만 정작 심한 추위는 없겠습니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5424.88,5426.44,1.559999999999491,어제부터 날이 많이 풀렸죠.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5426.84,5431.73,4.889999999999418,"내일도 서울 영하 4도, 대구 0도, 광주는 영상 1도에서 시작하겠고요.",SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5432.15,5438.14,5.990000000000691,"한낮 기온도 서울 2도, 대구와 광주는 6도까지 올라 평년과 비슷하거나 조금 높겠습니다.",SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5438.12,5441.44,3.319999999999709,하늘은 구름 많게 시작했다가 차츰 맑아지겠는데요.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5441.82,5445.37,3.550000000000182,제주도는 새벽부터 오전 사이 비나 눈이 조금 내리겠고요.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5445.39,5450.32,4.9299999999993815,동쪽 지방과 일부 수도권은 건조특보 발효 중이어서 불조심하셔야겠습니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5450.86,5461.55,10.69000000000051,이번 주도 기온은 계속 오르락내리락 하겠지만 지난주만큼의 한파는 없겠고 목요일이 중부지방의 기온 영하 10도 안팎까지 떨어지며 한 주 중 가장 춥겠습니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5461.57,5462.56,0.9900000000006912,연민주였습니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,5466.47,5483.33,16.859999999999673,언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활이었습니다.,SPEAKER_17:1.00s(1.000),SPEAKER_17,AD
+speech,5483.51,5494.2,10.6899999999996,And now the end is near And so I face the final curtain,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5495.51,5525.35,29.840000000000146,my friend i'll say it clear i'll state my case of which i'm certain i've lived a life that's full i traveled each and every highway and more much more than this,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5525.75,5552.65,26.89999999999964,"I did it my way Regrets, I've had a few But then again, too few to mention I did what I had to do Saw it through",SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5554.35,5577.8,23.449999999999815,without exemption I planned each charted course each careful step along the byway and more much more than this I did it,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5578.11,5600.53,22.420000000000076,my way yes there were times i'm sure you knew when i bit off more than i could chew but through it all when there was doubt,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5611.04,5633.04,22.0,"And I stood tall and did it my way I've loved, I've laughed and cried I've had my fill, my share of losing",SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5633.8,5658.09,24.289999999999964,"And now as tears subside I find it all so amusing To think I did all that And may I say, not in a shy way",SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5665.26,5690.25,24.98999999999978,i did it my way for what is a man what has he got if not himself then he has not to say the things he truly feels,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5750.37,5759.24,8.86999999999989,"네, 재즈 앨범 차트 4위 프랭크 스나트라의 Ultimate Sinatra에서 My Way 들었습니다.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5759.26,5763.57,4.309999999999491,"좋은 노래 물론 많습니다만 지금 뭐 연초 아니에요, 연초.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5764.69,5767.98,3.289999999999964,"연초에 이런 거 한 곡 들어줘야죠, 한 번.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5767.99,5770.12,2.130000000000109,나는 나의 길을 가련다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5770.14,5770.98,0.839999999999236,My Way.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5771.0,5776.51,5.510000000000218,누가 뭐라고 해도.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5776.53,5778.07,1.5399999999999636,독불장군 이 얘기는 아니고요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5779.11,5783.08,3.970000000000255,자기가 해온 일을 끝끝내 한번 완수해보겠다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5783.18,5786.42,3.2399999999997817,이런 의미로 받아들이면 되죠.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5786.44,5788.76,2.3200000000006185,프랭크 시나트라의 My Way.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5788.82,5793.39,4.5700000000006185,4위 앨범이 프랭크 시나트라의 Ultimate Sinatra.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5793.41,5800.14,6.730000000000473,3위 앨범은 마이클 부블레이의 크리스마스입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5800.16,5801.0,0.8400000000001455,이 앨범에서는,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5802.55,5810.96,8.409999999999854,지난 크리스마스에 한 번도 못 들은 White Christmas 듣고요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5810.98,5813.12,2.1400000000003274,2위는 레이베이의 앨범이 또 올라 있습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5813.14,5815.25,2.1099999999996726,Be Witched.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5815.27,5819.43,4.159999999999855,그러니까 레이베이의 인기가 얼마나 대단한지 알 수 있죠.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5819.45,5826.04,6.5900000000001455,레이베이 Be Witched 앨범에서 세컨드 베스트 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5826.06,5832.03,5.969999999999345,"자, 그럼 먼저 마이클 부블의 White Christmas.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,5832.05,5832.17,0.1199999999998908,To you,UNKNOWN:1.00s(1.000),,AD
+speech,5839.05,5867.99,28.9399999999996,"I'm dreaming of a white Christmas Just like the ones I used to know Where the treetops glisten And the children listen To hear sleigh bells in the snow, the snow",SPEAKER_10:1.00s(1.000),SPEAKER_10,MUSIC
+speech,5872.48,5896.29,23.8100000000004,"of a white Christmas with every Christmas card I write May your days, may your days, may your days be merry and bright And may all your Christmases be white",SPEAKER_10:1.00s(1.000),SPEAKER_10,MUSIC
+speech,5914.11,5940.56,26.450000000000728,Where the tree tops glisten And children listen To hear sleigh bells in the snow I'm dreaming of a white Christmas With every Christmas car,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,5990.08,6017.68,27.600000000000364,I'm dreaming of a white Christmas With every Christmas card I write May your days be merry and bright And may all,SPEAKER_10:1.00s(1.000),SPEAKER_10,MUSIC
+speech,6018.36,6023.06,4.700000000000728,Your Christmases,SPEAKER_10:1.00s(1.000),SPEAKER_10,MUSIC
+speech,6050.93,6067.49,16.55999999999949,I'll never forget how stupid in love I felt I'll always regret how I couldn't love,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,6075.15,6097.23,22.079999999999927,I loved you so much that I settled for less Oh you were my everything I was your second best,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,6155.39,6182.49,27.09999999999945,고맙습니다.,SPEAKER_11:1.00s(1.000),SPEAKER_11,AD
+speech,6244.42,6252.43,8.010000000000218,재즈 앨범 차트 2위 레이베이의 Be Witched 앨범에서 세컨드 베스트 들었고요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6252.45,6259.74,7.289999999999964,앞에 들으신 음악은 마이클 부블레이의 크리스마스 앨범에서 White Christmas 여가수가 함께했죠.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6260.4,6264.15,3.75,쉬나이어 트웨인입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6264.17,6266.97,2.800000000000182,재즈 앨범 차트 2위는,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6267.93,6274.92,6.989999999999782,샤데이의 The Best of Shadei 앨범 Smooth Operator 듣겠습니다,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6332.95,6335.89,2.9400000000005093,Faithful beginners are sensitive,SPEAKER_13:1.00s(1.000),SPEAKER_13,MUSIC
+speech,6437.66,6440.56,2.9000000000005457,고맙습니다.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,6528.98,6529.81,0.8300000000008367,안녕하십니까.,SPEAKER_21:1.00s(1.000),SPEAKER_21,AD
+speech,6530.33,6533.31,2.980000000000473,경기주택도시공사 사장 김용진입니다.,SPEAKER_21:1.00s(1.000),SPEAKER_21,AD
+speech,6533.33,6540.76,7.430000000000291,지난 날 우리는 세대가 함께 어우러지고 서로가 서로를 돌보는 따뜻한 일상이 있었습니다.,SPEAKER_21:1.00s(1.000),SPEAKER_21,AD
+speech,6540.78,6545.43,4.650000000000546,우리 경기주택도시공사 GH가 그 마음을 다시 잊고자 합니다.,SPEAKER_21:1.00s(1.000),SPEAKER_21,AD
+speech,6546.07,6552.66,6.5900000000001455,"누구도 소외되지 않고 배움과 건강, 여가와 돌봄이 이웃과 함께 이어지는 곳.",SPEAKER_21:1.00s(1.000),SPEAKER_21,AD
+speech,6553.05,6563.02,9.970000000000256,단순한 집을 넘어 사람과 사람이 어울려 함께 살아가는 문화를 만드는 공간혁신 플랫폼 경기유니티 GH가 시작합니다.,SPEAKER_21:1.00s(1.000),SPEAKER_21,AD
+speech,6563.6,6575.26,11.659999999999854,모두의 커뮤니티 경기유니티 GH 경기주택도시공사 잠시 후 8시부터 김이나의 별이 빛나는 밤에가 방송됩니다.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,6575.28,6577.71,2.430000000000291,어제다 못한 얘기 오늘마저 나눠요.,SPEAKER_20:1.00s(1.000),SPEAKER_20,AD
+speech,6580.98,6583.86,2.880000000000109,배철수의 음악 캠프입니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6583.88,6587.12,3.2399999999997817,4일 동안 특집 방송 보내드렸습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6587.14,6596.51,9.36999999999989,"싱글 차트, 앨범 차트, 록 차트, 재즈 차트 다 끝났습니다.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6596.67,6606.46,9.789999999999964,지금 듣고 계신 곡은 재즈 앨범 차트 12위에 있는 마일즈 데이비스의 카노 블루 앨범이에요.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6606.48,6609.17,2.6900000000005093,그 중에 So What.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6609.19,6610.75,1.5600000000004002,이 음악 정리하면서 듣겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6611.94,6616.55,4.610000000000582,2025년 한 해 배철수의 음악 캠프를 사랑해주신 여러분 고맙습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6616.75,6634.55,17.800000000000182,2026년 사실 뭐 지금 2025년 팝뮤직 결산하느라고 진짜 방송은 내일부터 2026년에도 여러분과 함께 좋은 음악 많이 즐기도록 하겠습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6634.57,6635.45,0.8800000000001091,고맙습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6638.56,6646.15,7.589999999999236,"프로듀서 송명석, 작가 김경옥, 배순탁, 박소영, 디스크자키 배철수입니다.",SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6646.17,6662.76,16.590000000000146,함께해 주신 여러분 고맙습니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,DJ
+speech,6826.73,6845.9,19.170000000000076,으 으 으,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,6860.07,6886.99,26.920000000000076,이 시각 세계였습니다.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,6926.61,6947.57,20.96000000000004,시청해주셔서 감사합니다.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,6954.89,6974.21,19.31999999999971,안녕하세요.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,6974.31,6975.89,1.5799999999999272,배우 원진아입니다.,SPEAKER_22:1.00s(1.000),SPEAKER_22,AD
+speech,6975.99,6977.43,1.440000000000509,저는 러닝을 좋아하는데요.,SPEAKER_22:1.00s(1.000),SPEAKER_22,AD
+speech,6978.14,6984.18,6.039999999999964,거리나 시간처럼 어떤 목표를 높게 잡기보다는 달리는 행위 자체에 집중을 합니다.,SPEAKER_22:1.00s(1.000),SPEAKER_22,AD
+speech,6984.2,6986.59,2.3900000000003274,그래서 러닝을 할 때는 시계도 빼고 달려요.,SPEAKER_22:1.00s(1.000),SPEAKER_22,AD
+speech,6987.44,6996.53,9.090000000000146,기록이나 수치에 집중하다 보면 힘들지만 웃을 수 있을 때까지만 달리고 멈추면 더 오래 재밌게 즐길 수 있는 것 같아요.,SPEAKER_22:1.00s(1.000),SPEAKER_22,AD
+speech,6996.56,7010.15,13.589999999999236,취미든 일이든 큰 목표에 집착하고 좌절하기보단 작은 성취감을 꾸준히 모아가는 것이 즐겁게 오래 지속할 수 있는 힘이 됩니다.,SPEAKER_22:1.00s(1.000),SPEAKER_22,AD
+speech,7010.17,7010.23,0.0599999999994906,잠깐만,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,7019.27,7025.96,6.6899999999996,이 캠페인은 언제나 당신 곁에 MG 새마을금고와 함께합니다.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,7025.98,7033.93,7.950000000000728,지금 시각은 7시 57분입니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,7033.95,7034.15,0.1999999999998181,안녕하세요.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,7034.6,7036.02,1.4200000000000728,이정재입니다.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,7036.04,7042.57,6.529999999999745,70년 현대해상의 여정을 함께해 주신 고마운 모든 분들을 위해 마음이 합니다.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,7042.59,7043.29,0.6999999999998181,현대해상.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,7043.59,7062.64,19.050000000000185,모든 인쇄 가능한 성원에드피아 온라인 줌은 간편한 성원에드피아 누구든지 어디서나 쉽고 빠르게 인쇄의 유토피아 성원에드피아 디지털 인쇄도 역시 성원에드피아 국민 인쇄 성원에드피아,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,7065.66,7082.08,16.420000000000073,매일 아침 10시 새롭게 선보이는 신상품,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,7083.68,7107.68,24.0,숭실사이버대에서 숭실력자 나의 꿈을 숭 실력발이 쏴 숭실력자 내 실력이 숭 실전으로 쏴 쏴 쏴 숭쏴 실전형 커리큘럼 숭실력자 숭쏴 숭실사이버대 지금 수시모집중 비대 살 땐 당당하게 3년 애플 비대 앱,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,7108.09,7125.44,17.349999999999454,마사지가 필요할 때,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,7143.62,7162.65,19.029999999999745,한 번쯤 나를 돌아보고 싶은 순간 그 마음을 헤아리는 기술 과학으로 섬세함을 담은 그 이름 올리디아,SPEAKER_00:1.00s(1.000),SPEAKER_00,AD
+speech,7163.45,7192.97,29.52000000000044,입학이고 취업 졸업이고 취업 수원여자대학교 여성리더양성 미래를 만드는 수원여자대학교 세상을 바꾸는 여성의 힘 수원 수원여자대학교 아파본 사람은 압니다 아프지 않은 일상이 얼마나 소중한지를 당신의 건강이 흔들릴 때 어떤 순간에도 당신을 지킵니다,SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,7193.07,7199.75,6.680000000000291,"줄기세포, 면역세포를 위한 EHL 바이오만의 솔루션은 이미 시작되었습니다.",SPEAKER_19:1.00s(1.000),SPEAKER_19,AD
+speech,7203.53,7206.1,2.5700000000006185,당신을 지킵니다.,SPEAKER_19:1.00s(1.000),SPEAKER_19,AD

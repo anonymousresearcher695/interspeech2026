@@ -1,0 +1,359 @@
+﻿Type,Start Time,Stop Time,Duration,Transcript,Speakers,Dominant_Speaker,Predicted_Label
+speech,0.03,8.88,8.850000000000001,당신을 지킵니다 당신을 지키는 EHL 바이오가 6시를 알려드립니다,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,42.08,48.05,5.969999999999999,새해 첫날이어서 그런가 오늘은 자주 마음에게 부탁하게 됩니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,48.07,48.55,0.4799999999999969,10분만 기다려줘.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,49.83,55.28,5.450000000000003,미안한데 잠깐만 문 밖에서 좀 차분히 기다려주면 안 될까?,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,55.3,61.21,5.910000000000004,오늘은 아무 마음이나 쉽게 문 안으로 들이지 않으려 애썼습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,61.23,68.39,7.160000000000004,초조하고 산만한 마음에게 단호히 지금은 내 안으로 들어오지 말아달라고 제지하거나 타일렀습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,77.02,85.91,8.89,아예 입장 거절이 아니어서 그런지 마음은 순순히 그 부탁을 잘 들어줍니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,85.93,94.44,8.509999999999991,부글부글 거품처럼 끓어오르던 온갖 잡념들도 10분의 휴식을 가지면 알아서 평정과 평온을 되찾습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,94.46,103.85,9.39,오늘은 좋은 마음만 쉽게 입장시키고 나머지에겐 순화의 시간을 주어서 지연 입장시키는 전략을 구사합니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,118.73,124.16,5.429999999999993,새해 첫날을 위해 좋은 말 하나를 찾았습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,124.18,127.84,3.6599999999999966,시작하기 위해 대단할 필요는 없다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,128.0,131.89,3.8899999999999855,대단해지기 위해 시작해야 한다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,132.61,135.35,2.7399999999999807,첫 시작이 느낌 좋은 2026년입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,135.37,138.7,3.329999999999984,청취자 여러분 새해 복 많이 받으시고요.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,138.72,139.44,0.7199999999999989,건강하시고요.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,140.57,167.59,27.02000000000001,"배철수의 음악 캠프는 오늘부터 4일 동안 특집 방송입니다 2025년 팝뮤직 총결산 첫날 오늘은 싱글차트 결산입니다 2025년에 가장 인기 있었던 곡을 소개해드리는 거예요 25위부터 출발하도록 하겠습니다 25위 헌트릭스, 이재, 오드리 누나, 레이아미의 골든입니다",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,171.62,177.76,6.139999999999986,시청해주셔서 감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,215.31,222.07,6.759999999999991,I'm done hiding now I'm shining like I'm gonna be,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,347.1,353.5,6.399999999999977,시청해주셔서 감사합니다.,UNKNOWN:1.00s(1.000),,AD
+speech,359.21,364.4,5.189999999999998,"헌트릭스, 이재, 오드리 누나, 레이아미의 골든.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,364.42,366.76,2.339999999999975,케이팝 디모넌터스 열풍이 대단했죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,367.67,368.39,0.7199999999999704,골든이 25위.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,368.41,373.97,5.560000000000002,2025년 팝뮤직 총결상 오늘 싱글 차트 결산입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,373.99,378.6,4.610000000000014,이어 랜드 차트 핫 100 송스.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,378.62,379.68,1.0600000000000025,25위가 골든이었고요.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,379.7,384.83,5.129999999999996,24위는 드레이크의 노키아입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,384.85,385.83,0.9799999999999612,광고 뒤에 듣겠습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,386.82,406.44,19.620000000000005,참나무 장작화덕에 코끼리 베이글 코끝에 깊은 불향이 코끼리 베이글 바다삭 쫄깃한 코끼리 베이글 케일 베이글의 시작은 코끼리 베이글 눈코입이 즐겁다 코끼리 베이글,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,406.42,421.44,15.019999999999982,언니 본 너 껌쩍 입었구나 안착 편하니까 안착 팬티 엉덩이에 착 안착 팬티 안 껴 안 끼니까 안착 팬티 엉덩이에 착 착착 착착착 엉덩이에 착,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,421.42,451.42,30.0,나의 성공시대 시작됐다,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,452.33,466.83,14.5,"서울사이버대학을 다니고 반려동물산업학과, 스포츠지도학과, 응용수학통계학과 등 사이버대 최대 49개 학과 전공해서 지금 신입생, 편입생을 보집 중입니다.",SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,478.4,480.28,1.8799999999999957,서울사이버대학교 지밴 지밴 지밴 지밴 너무너무 편해 스타일도 멋져 일할 때는 역시 지밴인걸 지디 지디 밴 밴 밴 입어보면 알아 디테일도 좋아 작업복은 역시 지밴인걸,SPEAKER_24:1.00s(1.000),SPEAKER_24,AD
+speech,482.5,484.49,1.990000000000009,대한민국 대표 워크웨어 지벤.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,484.99,486.43,1.4399999999999975,일하는 지금은 지벤 시대.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,487.51,489.74,2.230000000000018,세계 10대 슈퍼푸드 브로콜리.,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,490.74,493.16,2.420000000000016,겨울엔 브로콜리 카레 어떠세요?,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,494.0,496.75,2.75,겨울의 카레 브로콜리 카레.,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,496.92,510.45,13.529999999999973,계절마다 카레를 다르게 계절마다 카레를 맛있게 카레로 계절을 맛보세요 일요일은 오뚜기 카레 오뚜기 아팠던 분들에게 보험 가입의 기준 너무 높죠?,SPEAKER_32:1.00s(1.000),SPEAKER_32,AD
+speech,510.47,513.79,3.3199999999999363,하지만 간편건강보험이라면 어떨까요?,SPEAKER_32:1.00s(1.000),SPEAKER_32,AD
+speech,513.81,526.69,12.88000000000011,"고혈압, 당뇨, 디스크가 있어도 몇 가지 질문만으로 간편하게 가입 가능 유병자 걱정 덜어주는 현대해상 간편건강보험 심사기준에 따라 가입이 제한될 수 있으니 유의사항을 확인하세요",SPEAKER_32:1.00s(1.000),SPEAKER_32,AD
+speech,527.15,533.08,5.930000000000064,맑은 물이 흐르고 온도 변화가 크지 않은 까다로운 곳에서 자라는 와사비.,SPEAKER_12:1.00s(1.000),SPEAKER_12,AD
+speech,533.1,536.95,3.850000000000023,주비푸드는 그런 와사비의 뿌리 부분만을 엄선해 사용합니다.,SPEAKER_12:1.00s(1.000),SPEAKER_12,AD
+speech,537.63,551.63,14.0,"소비자들을 존중하기에 좋은 원료, 정직한 표기를 약속합니다.",SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,551.65,552.47,0.82000000000005,아름다운 식탁 창조 주비푸드 미미미르 에셋 미미르 에셋 투자하는 미미르,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,558.42,569.06,10.639999999999986,안녕하세요.,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,569.24,572.38,3.1399999999999864,노란우산 홍보대사 탁재훈입니다.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,572.4,578.11,5.710000000000036,세금 걱정에 노후 걱정까지 요즘 사장님들 참 걱정이 많으시죠.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,578.13,582.24,4.110000000000014,이제 노란우산이 사장님 걱정을 탁 덜어드릴게요.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,584.58,598.05,13.469999999999914,매년 최대 600만원 소득공제에 부금 내 대출 지원은 물론 복리이자로 퇴직금 역할까지 대한민국 사장님 곁엔 언제나 노란우산이 함께합니다.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,598.07,603.76,5.689999999999941,사장님의 걱정을 탁 덜어드리는 든든한 희망자산 노란우산.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,605.34,611.37,6.029999999999973,노란우산 쓰세요.,SPEAKER_13:1.00s(1.000),SPEAKER_13,AD
+speech,611.39,611.79,0.3999999999999772,노란우산 쓰세요.,UNKNOWN:1.00s(1.000),,AD
+speech,686.76,703.6,16.840000000000032,"스테이씨, 메키, 키샹, 애슐리, 담임, 파티",SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,721.01,739.98,18.970000000000027,"Baby girl, let me see you do your dance, let me see you twirl Shake your a** in the club with your homegirls Take a pic for the ground, show the whole world Is that your best theme?",SPEAKER_13:1.00s(1.000),SPEAKER_13,MUSIC
+speech,740.0,744.76,4.759999999999991,"I'ma ice ball for y'all like Kresge I'ma act you, like bless me Hit the dance floor, get nasty, impress me Baby girl, let me see you do your dance, let me see you twirl Shake your a** in the club with your homegirls",SPEAKER_13:1.00s(1.000),SPEAKER_13,MUSIC
+speech,761.65,779.74,18.090000000000032,I don't mean to call you no Just heard about the things that you do my love And you're just like me if it's true my love You can see right through my love I see your waist trump my love You got some bass and a trump my love How many a** in this club Is it really just me my love,SPEAKER_13:1.00s(1.000),SPEAKER_13,MUSIC
+speech,831.61,850.08,18.470000000000027,24위,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,850.92,853.76,2.840000000000032,드레이크의 노키아 들었습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,853.78,860.05,6.269999999999982,싱글 차트 23위는 샤브지의 굿 뉴스입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,860.07,862.21,2.1399999999999864,22위가 지금도 차트에 있죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,862.63,865.98,3.3500000000000227,리온 토마스의 마트.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,866.08,866.92,0.8399999999999181,두 곡을 계속 듣겠습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,867.58,879.48,11.899999999999975,먼저 23위 샤브지의 굿 뉴스.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,879.5,879.58,0.0800000000000409,굿 뉴스,UNKNOWN:1.00s(1.000),,AD
+speech,881.87,910.86,28.99000000000001,Now what a hell of a year it's been Keep on bluffing but I just can't win Drop my songs but they learn to swim Now what a hell of a year it's been Head in a bottle for my heart in a case Yeah it's getting harder to act my age,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,922.32,950.45,28.129999999999995,I need some good news Send me sipping on cold truth Nobody knows what I'm going through But the devil won't walk in my shoes When someone told me Living this life would be lonely Trying to get away from the old me Still stuck singing these blues All I really need is a little good news,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,971.9,998.8,26.899999999999977,매주 일요일 업로드됩니다.,SPEAKER_11:1.00s(1.000),SPEAKER_11,AD
+speech,1027.41,1055.35,27.939999999999827,I need some good news It's in here sippin' on cold truth Nobody knows what I'm going through Bet the devil wouldn't walk in my shoes Wish someone told me Livin' this life would be lonely Tryna get away from the old me Still start singin' these blues All I really need is a little good news,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,1090.29,1091.88,1.5900000000001455,she said take your time,SPEAKER_20:1.00s(1.000),SPEAKER_20,MUSIC
+speech,1229.38,1259.31,29.92999999999984,"23위를 차지한 샤브지의 굿 뉴스 22위 리온 토마스의 멋 이렇게 두 곡 들었습니다 2025년 팝뮤직 총결산 오늘 싱글차트 결산입니다 21위는 시저 with 켄드릭 라마 30, 4, 30 20위가 켄드릭 라마의 스커브랍 두 곡 듣겠습니다 먼저 21위 시저 with 켄드릭 라마",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,1260.17,1286.58,26.40999999999985,I used to think about immature things.,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,1286.6,1287.22,0.6200000000001182,"You know, like, do you love me?",SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,1287.24,1287.54,0.2999999999999545,Do you want me?,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,1287.56,1288.64,1.0800000000001546,Are you going to call me like you said you would?,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,1288.66,1289.42,0.7599999999999909,Is this really your real phone number?,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,1291.36,1318.93,27.570000000000164,Some of y'all go get washed Some of y'all just go pop Some of y'all just go talk But none of y'all ain't really got Some of y'all just look lost I give this type of feel you ain't accustomed to I swear I'll be at peace if it weren't for you Only want your love if it's sally But if it f*** me then f*** you And that's the way I like it,SPEAKER_18:1.00s(1.000),SPEAKER_18,MUSIC
+speech,1344.78,1347.99,3.2100000000000364,내 잔에 내 잔,SPEAKER_21:1.00s(1.000),SPEAKER_21,AD
+speech,1416.54,1441.97,25.430000000000064,매주 일요일 업로드됩니다.,SPEAKER_17:1.00s(1.000),SPEAKER_17,AD
+speech,1443.06,1472.04,28.980000000000015,자막 제공 배달의민족,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1539.05,1557.63,18.580000000000155,god knows i am reincarnated i was stargazing life goes on i need all my babies woke up looking for the broccoli high key keep a horn on me deck of my seat ip ownership the blueprint is by me mr get off i get off at my feet,SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,1567.3,1585.83,18.529999999999973,자막 제공 배달의민족,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1586.43,1615.17,28.74000000000001,매주 일요일 업로드됩니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1641.7,1669.28,27.579999999999927,자막 제공 배달의민족,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,1669.78,1699.41,29.63000000000011,켄드릭 라마 스카브롭 20위 곡이었고요 앞에 들으신 음악은 21위 시저 with 켄드릭 라마의 34 30 자 2025년 팝뮤직 총결산 오늘 싱글 차트 19위 사브리나 카펜트 테이스트입니다 시간이 다 됐는데요 광고 뒤에 다시 처음부터 듣겠습니다,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,1701.23,1730.85,29.61999999999989,아 뭐 찾으려면 어디로 가야 되지 악보 부터 받아 여기는 악보 받아 악보 찾다 열받아 come down 악보,SPEAKER_24:1.00s(1.000),SPEAKER_24,AD
+speech,1733.72,1763.71,29.99000000000001,컴온 요 악보 받아 세상 모든 악보 온라인도 모바일도 여기서 다 다운받아 뮤직디자이너 악보 받아 비대 살 땐 당당하게 3년 애플 비대 전국 무료 설치는 애플 비대 온가족 믿고 쓰는 애플 비대 3년 무상 AS부터 전국 무료 설치까지 비대는 역시 당당하게 3년 애플 비대 애플,SPEAKER_02:1.00s(1.000),SPEAKER_02,AD
+speech,1764.77,1783.55,18.779999999999973,수원여자대학교 여성기 더 양성 미래를 만드는 수원여자대학교 세상을 바꾸는 여성의 힘!,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,1783.57,1783.7,0.1300000000001091,수원여자대학교,UNKNOWN:1.00s(1.000),,AD
+speech,1784.88,1811.48,26.59999999999991,판총물 고민 고민하지마 인포인포 기프트인포 굿즈도 비교 비교하지마 인포인포 기프트인포 판총물도 판총물 대박날까 불안하네 기프트인포 기프트인포,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,1813.97,1819.85,5.879999999999882,언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활입니다.,SPEAKER_04:1.00s(1.000),SPEAKER_04,AD
+speech,1819.87,1825.68,5.810000000000173,2026년의 첫날이었던 오늘 그야말로 귀가 떨어져 나갈 듯 매서운 추위가 대단했는데요.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,1826.08,1831.51,5.430000000000064,전국에 바람까지 강하게 불어오며 실제로 느껴지는 기온은 더욱 느껴지는 이번 추위.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,1831.49,1850.63,19.1400000000001,기상캐스터 배혜지,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,1850.61,1852.93,2.320000000000164,여기에 서해안을 따라서는 눈 소식이 있는데요.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,1853.28,1859.96,6.680000000000064,어젯밤부터 울릉도와 독도는 대설경보가 발효 중이고 전라권과 제주 쪽은 대설 예비특보 내려져 있습니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,1859.98,1865.77,5.789999999999964,내일까지 서해안 많게는 10cm 이상 울릉도와 독도는 30cm까지 적설량 예상됩니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,1865.79,1867.4,1.610000000000127,인자영입니다.,SPEAKER_04:1.00s(1.000),SPEAKER_04,AD
+speech,1867.42,1872.48,5.059999999999945,언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활이었습니다.,SPEAKER_04:1.00s(1.000),SPEAKER_04,AD
+speech,2032.44,2059.05,26.610000000000127,사브리나 카펀트 테이스트 19위 곡 들었습니다 2025년 팝뮤직 총결산 오늘은 싱글 차트 결산입니다 18위는 모간 월런 저스틴 케이스 17위가 캔들 라마의 Not Like Us 두 곡 듣겠습니다 먼저 18위 모간 월런 저스틴 케이스,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2066.04,2094.17,28.13000000000011,I ain't saying that I always sleep alone I ain't saying that I ain't met no one else Done a little bit of midnight moving on And I ain't saying when I do that it don't help Leave with someone I don't know her name Pull her real close but I leave some space I can forget you girl for good Even though I should I never let my heart go all the way,SPEAKER_15:1.00s(1.000),SPEAKER_15,MUSIC
+speech,2231.02,2251.48,20.46000000000004,자막 제공 배달의민족,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,2253.86,2283.66,29.799999999999727,자막 제공 배달의민족,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,2289.5,2302.61,13.110000000000127,자막 제공 및 자막 제공 및 광고를 포함하고 있습니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,2302.63,2303.49,0.8599999999996726,자막 제공 및 광고를 포함하고 있습니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,2304.67,2321.15,16.480000000000018,"They not like us, they not like us, they not like us You think the bae gon' let you disrespect poppin'?",SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2321.17,2323.85,2.6799999999998363,"I think that open show gon' be your last stop Dickhole foul, I don't know why you still pretendin' What is the owl, bird?",SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2323.87,2327.45,3.5799999999999272,"You just a bird, go The audience not dumb, shape the stories how you want Hey Trey, they're not slow, rabbit hole is still deep I can go further, I promise, ain't that somethin'?",SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2327.47,2330.12,2.650000000000091,"Be restless for bitchin', you Malibu most wanted Ain't no lawboy, you ballboy, fetch Gatorade or somethin'",SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2330.1,2337.53,7.430000000000291,since 2009 i had this jumping but get a wedgie be flipped over your boxes over your fold the other options,SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2394.97,2423.0,28.0300000000002,they not like us they not like us they not like us once upon a time all of us was in chains homies still double down crawling up some slaves atlanta was the mecca building railroads and trains bear with me for a second let me put y'all on game the settlers was using town folk to make em richer fast forward 2024 you got the same agenda you run to atlanta when you need to check balance let me break it down for you this the real challenge you call future when you didn't see the club lil baby help you get your lingo up,SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2422.98,2450.61,27.63000000000011,자막 제공 배달의민족,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,2454.57,2483.39,28.81999999999971,자막 제공 배달의민족,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,2499.3,2504.47,5.169999999999618,"17위, 캔들릭 라마, Not Like Us 들었습니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2504.49,2508.78,4.290000000000418,"앞에 들으시는 분은 18위, 모간 월런, 저스틴 케이스였고요.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2508.82,2512.7,3.8799999999996544,"2025년 판매직 총결산, 오늘 싱글 차트 결산입니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2513.2,2520.82,7.620000000000346,"16위는 The Weeknd, 플레이보이 카르티, Timeless.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2521.16,2526.85,5.690000000000055,"15위가 캔들릭 라마 피처링, Lefty Gunplay, TV OFF.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2528.58,2530.57,1.9900000000002365,저도 텔레비전 끄는 거에는 찬성입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2531.31,2533.78,2.4700000000002547,텔레비전 끄고 라디오 들어야죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2533.8,2535.18,1.3799999999996544,16기부터 듣겠습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2535.74,2540.16,4.420000000000073,"The Weekend and Playboy Carti, Timeless.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,2610.64,2621.18,10.539999999999964,자막 제공 배달의민족,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,2701.9,2725.55,23.65000000000009,she fell in love with the scene oh yeah her man quiet not a peep broke his heart btsd hold his chest let it breathe let it breathe when i got a priest he got a cross get out of line send him to god i shed a tear break all laws oh yeah ever since i was a kid i've been legit from the start,SPEAKER_14:1.00s(1.000),SPEAKER_14,MUSIC
+speech,2736.78,2742.85,6.069999999999709,감사합니다.,SPEAKER_14:1.00s(1.000),SPEAKER_14,AD
+speech,2797.43,2826.93,29.5,all i ever wanted was a black grand national being rational give em what they ask for it's not enough few solid left but it's not enough few that are really step but it's not enough say you bigger than myself but it's not enough i get on that yeah somebody gotta do it i made em yeah somebody gotta do it i tear the g-pad watch and do it we survived outside all from the music what they like what he on this the alpha and omega welcome home,SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2827.81,2841.21,13.400000000000093,매주 일요일 업로드됩니다.,SPEAKER_17:1.00s(1.000),SPEAKER_17,AD
+speech,2880.63,2898.75,18.11999999999989,매주 일요일 업로드됩니다.,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,2899.63,2918.11,18.480000000000015,it's not enough few solid left but it's not enough few that have reached that but it's not enough say you bigger than myself but it's not enough,SPEAKER_16:1.00s(1.000),SPEAKER_16,MUSIC
+speech,2946.42,2975.15,28.730000000000015,마스터!,SPEAKER_16:1.00s(1.000),SPEAKER_16,AD
+speech,3011.86,3015.07,3.2100000000000364,"15위, The Weeknd.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3015.11,3019.15,4.039999999999964,16위가 The Weeknd입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3019.23,3022.72,3.4899999999997817,The Weeknd and Playboy Carti의 Timeless.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3022.74,3028.24,5.5,15위는 Candle Llama 피처링 Lefty Gunplay의 TV Off.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3028.26,3029.7,1.4399999999995998,두 곡 들었습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3029.72,3034.91,5.190000000000055,"2025년 팝뮤직 총결산, 오늘은 싱글 차트 결산입니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3034.93,3035.71,0.7800000000002001,광고 듣겠습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3036.67,3061.66,24.98999999999978,맛있는 돼지고기가 왔어요 우리 아이 도드람 우리 남편 도드람 우리 가족 도드람 든든해요 도드람 맛있는 도드람이 우리 집으로 왔어요 맛있는 우리 돼지 도드람 온라인에서도 도드람 올리지요 피부에 닿는 느낌 올리지요,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3077.83,3096.31,18.480000000000015,이 광고는 건강기능식품광고입니다,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3096.29,3100.78,4.4900000000002365,폐암 환자나 그 유가족은 직업병 산재보상 대상이라는 거 알고 계신가요?,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3101.22,3105.8,4.580000000000382,과거 건설 현장이나 공장과 같은 환경에서 일했던 분이라면 가능합니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3105.82,3107.5,1.6799999999998363,일용직도 가능합니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3107.52,3110.75,3.230000000000018,노무법인 폐가 직접 해결해드리겠습니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3110.77,3118.64,7.869999999999891,폐암 산재보상 전문 노무법인 폐 1544-7575 IS동선은 봅니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3118.61,3138.45,19.83999999999969,쓸모없던 땅에서 친환경 건설의 내일을 세우고 폐기물에서 전기차의 새로운 미래를 만들고 아이들에게 희망의 세상을 열어주는 ESG 경영으로 더 큰 내일을 봅니다 IS동서 싱크볼 바꿀 때 되셨죠?,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3147.67,3168.79,21.11999999999989,오래된 싱크대 이제 싱크볼만 바꿔보세요 60년 주방 전문 백조싱크 백조싱크 고규필 고객님 어 왔다 재미가 와 놀라움이 와 혜택이 와 재미있게 놀랍게 다양하게,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,3170.2,3172.91,2.7100000000000364,와보고 싶은 뱅크.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,3172.93,3174.91,1.9800000000000184,고규필도.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,3174.93,3175.01,0.0800000000003819,와뱅크.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,3175.33,3175.93,0.599999999999909,광주은행.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,3176.43,3178.17,1.7400000000002365,통합형 AI 고객센터?,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,3178.19,3186.64,8.449999999999818,믿고 맡길 수 있어?,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3186.66,3187.12,0.4600000000000364,TWC는 달라.,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3187.14,3191.63,4.4900000000002365,비용도 효율도 모두 계란티.,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3191.65,3191.83,0.1799999999998363,운영 비용 다운.,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3191.85,3192.77,0.9200000000000728,상담 퀄리티는 업. AI 전문기업 TWC.,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3192.79,3195.53,2.7400000000002365,통합형 AI 고객센터는 TWC.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3196.58,3198.76,2.180000000000291,배철수의 마크 캠프입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3198.8,3202.57,3.769999999999982,2025년 팜식 총결산 싱글 차트 결산입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3202.59,3209.66,7.069999999999709,"14위 그레이시 에이브라움스의 That's So True 들으면서 1, 2부 마칩니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3209.68,3215.54,5.860000000000127,3부에 다시 만납니다.,SPEAKER_24:1.00s(1.000),SPEAKER_24,AD
+speech,3216.66,3218.82,2.160000000000309,I could go and read your mind Think about your dumb face all the time Living in your glass house I'm outside,SPEAKER_24:1.00s(1.000),SPEAKER_24,MUSIC
+speech,3368.65,3372.4,3.75,꿈꾸는 당신이 아름답습니다.,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3372.42,3376.3,3.880000000000109,심리학 용어에 사회적 촉진이란 말이 있답니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3376.32,3385.39,9.069999999999707,플로이드 올포트란 심리학자가 정립한 개념인데 다른 사람의 존재에서 비롯된 시청각적 자극만으로도 능률이 오른다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3385.41,3391.08,5.670000000000073,쉽게 말해 도서관에서 다들 공부하고 있으면 나도 공부가 잘 된다는 얘기입니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3391.1,3397.29,6.190000000000055,요즘엔 도서관 말고 카페에서도 이어폰을 꽂고 같이 집중하면 능률이 더 오르죠.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3397.27,3413.96,16.690000000000055,운동도 마찬가지라 꾸역꾸역 헬스장에 가면 어느새 또 열심히 뛰게 됩니다 덩달아 하게 되는 곳으로 일단 가자 새해 목표로 괜찮죠?,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3413.98,3419.87,5.889999999999873,mbc 캠페인 꿈의 지도 sk 브로드밴드 소상공인 더드림 성공 패키지가 함께합니다,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3427.14,3444.59,17.450000000000273,지금 시각은 6시 57분입니다.,SPEAKER_28:1.00s(1.000),SPEAKER_28,AD
+speech,3444.78,3463.85,19.06999999999971,실사 출력 가능한 에드피아몰 판총물 주문 간편한 에드피아몰 아크릴 제작도 쉽고 빠르게 광고의 유토피아 에드피아몰 쉽고 빠른 홍보가 현실이 되는 곳 광고만족 에드피아몰,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3465.18,3468.56,3.380000000000109,피부가 부들부들하니 온천 다녀온 것 같네 엄마 온천 갔다 왔어?,SPEAKER_08:1.00s(1.000),SPEAKER_08,AD
+speech,3468.94,3493.82,24.88000000000011,온천은 뭐하러 가 비드부들 바디워시 쓰면 되는데 우와 피부가 부들부들해 그치 피지가 55.6% 줄고 윤기는 17.6%나 증가한대 이름값 하네 몽잘 비드부들 바디워시 잘 만들었다 몽잘 아파 본 사람은 압니다 아프지 않은 일상이 얼마나 소중한지를 당신의 건강이 흔들릴 때 어떤 순간에도 당신을 지킵니다,SPEAKER_08:1.00s(1.000),SPEAKER_08,AD
+speech,3493.9,3499.93,6.029999999999745,"줄기세포, 면역세포를 위한 EHL 바이오만의 솔루션은 이미 시작되었습니다.",SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3499.95,3512.62,12.670000000000073,당신을 지킵니다.,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3512.64,3514.0,1.360000000000127,오늘 주문 내일 도착!,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3516.53,3516.99,0.4599999999995816,빠른 인쇄가 필요할 땐 와우프레스가 정답!,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3517.89,3543.03,25.140000000000327,요즘 닥칠 어디 요즘 홍보 어디 요즘 인쇄 어디 인쇄는 월프레스 커져라 친환경 친환경 농산물 무농약으로 믿고 먹지 친환경 농산물 유기농으로 건강하자 친환경 농산물 자조금 관리위원회가 함께합니다 친환경 농산물,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3545.35,3563.44,18.090000000000146,코 입술 주름 개선을 위해 피부 깊은 곳부터 자연스럽게 PLLA로 부드럽게 채우다.,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,3563.46,3563.56,0.099999999999909,올리디아.,UNKNOWN:1.00s(1.000),,AD
+speech,3564.67,3590.56,25.889999999999876,입학이고 취업 졸업이고 취업 수원여자대학교 여성비도 양성 미래를 만드는 수원여자대학교 세상을 바꾸는 여성의 힘 수원 수원여자대학교 건강을 생각하는 위더스 생명을 존중하는 위더스,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,3593.19,3608.84,15.650000000000093,생명존중을 실천하는 위더스 제약에서 7시를 알려드립니다.,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,3683.02,3705.19,22.170000000000076,매주 일요일 업로드됩니다.,SPEAKER_15:1.00s(1.000),SPEAKER_15,AD
+speech,3790.61,3797.84,7.230000000000018,13위 모간 월런 I'm the problem 들었습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3797.86,3799.41,1.5499999999997272,2025년에 가장 크게 히트한 노래들입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3800.47,3809.9,9.430000000000293,사실 연말 결산 차트 싱글 차트라는 게 2025년에 가장 크게 히트한 음악들 13위 모간 월런 I'm the problem,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3810.96,3815.21,4.25,12위는 사브리나 카펀터의 에스프레소입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3817.03,3818.71,1.6799999999998363,배철수의 음악 캠페에서도 참 많이 나왔죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3819.55,3822.76,3.2100000000000364,광고 뒤에 듣겠습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3822.78,3828.37,5.589999999999691,맑은 물이 흐르고 온도 변화가 크지 않은 까다로운 곳에서 자라는 와사비.,SPEAKER_12:1.00s(1.000),SPEAKER_12,AD
+speech,3828.39,3832.21,3.820000000000164,주비푸드는 그런 와사비의 뿌리 부분만을 엄선해 사용합니다.,SPEAKER_12:1.00s(1.000),SPEAKER_12,AD
+speech,3832.91,3837.68,4.769999999999982,"소비자들을 존중하기에 좋은 원료, 정직한 표기를 약속합니다.",SPEAKER_12:1.00s(1.000),SPEAKER_12,AD
+speech,3838.39,3843.93,5.539999999999964,안전화가 이렇게 편해도 돼요?,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,3843.95,3846.06,2.1100000000001278,나도 모르게 집에까지 신고 간다니까요.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,3846.58,3850.06,3.480000000000018,우린 발이 건강해야 하니까 안전화 아무거나 못 신어요.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,3850.42,3852.69,2.269999999999982,내가 안전해야 가족이 안심하지.,SPEAKER_34:1.00s(1.000),SPEAKER_34,AD
+speech,3853.01,3855.01,2.0,그래서 난 꼭 워킹만 신어.,SPEAKER_03:1.00s(1.000),SPEAKER_03,AD
+speech,3854.99,3867.26,12.270000000000437,워킷 안전화를 고집하는 확실한 이유가 있다 생각의 차이가 만드는 가치 워킷 워킷 안전화 최유라의 메디솔라 시대 여러분 오늘도 건강한 식사 하셨나요?,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,3867.81,3871.09,3.2800000000002,나를 위한 한 끼 챙기기 정말 어려우시죠?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,3871.11,3881.08,9.9699999999998,전문가들이 만든 영양 밸런스 식단 메디솔라와 함께 해보세요 저 최유라도 케어 받는 똑똑한 맞춤 영양 식단은 메디솔라,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,3882.36,3888.31,5.949999999999818,어마나 세상에 이렇게 우리 두 대가 보니까 십자층들이 좀 많이 듣더라고.,SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,3888.33,3893.28,4.950000000000273,아니 그 선생님들이 두 대를 듣는 이건 이유는 뭘까요?,SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,3893.3,3894.48,1.1799999999998363,안영미 씨 때문이죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3894.5,3895.12,0.6199999999998909,저 때문에요?,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3896.22,3896.82,0.6000000000003638,네 매력이 있잖아요.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,3897.04,3901.25,4.210000000000036,세상에 뭐 이렇게 느끼한 말투로 말씀하세요.,SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,3901.27,3905.62,4.349999999999909,매력 있잖아요.,SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,3905.64,3905.74,0.099999999999909,고마워요.,UNKNOWN:1.00s(1.000),,AD
+speech,3908.36,3921.31,12.949999999999818,한 번만 들어보셔요 안영미의 매력 가지가지 오만가지야 팔색조 팔색조 2시의 데이트 안영미입니다,SPEAKER_27:1.00s(1.000),SPEAKER_27,AD
+speech,4092.62,4101.65,9.029999999999744,12위 사브리나 카펀트의 에스프레소 들었습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4101.67,4103.6,1.930000000000291,"자, 11위는 모간 월런.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4105.06,4110.91,5.849999999999454,모간 월런이 2025년 한 해 얼마나 인기가 있었는지 알 수 있겠죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4110.93,4114.34,3.4099999999998545,모간 월런의 러브 썸바디.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4114.36,4118.6,4.240000000000691,10위가 채플원의 핑크 포니 클럽입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4118.84,4120.09,1.25,두 곡 듣겠습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4120.1,4124.77,4.670000000000073,먼저 11위 모간 월런 러브 썸바디.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4275.85,4279.87,4.019999999999527,i just wanna love somebody,SPEAKER_15:1.00s(1.000),SPEAKER_15,MUSIC
+speech,4336.57,4364.26,27.69000000000051,I know you wanted me to stay But I can't ignore the crazy visions of me in LA And I heard that there's a special place Where boys and girls can all be queens every single day I'm having wicked dreams of leaving Tennessee If Santa Monica is where it's calling me,SPEAKER_22:1.00s(1.000),SPEAKER_22,MUSIC
+speech,4367.62,4391.53,23.90999999999985,I'm just having fun on the stage in my heels It's where I belong down at the...,SPEAKER_22:1.00s(1.000),SPEAKER_22,MUSIC
+speech,4581.97,4605.0,23.029999999999745,채플원의 핑크 포니 클럽 12곡 들었습니다 앞에 들으신 음악은 11위 모간 월런 러브 삼바디였고요 2025년 팝뮤직 총결산 싱글 차트 9위는 로제 그리고 브루노 마을스 아파트입니다 듣겠습니다,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4606.81,4627.08,20.269999999999527,좋아하는 랜덤 게임!,SPEAKER_24:1.00s(1.000),SPEAKER_24,AD
+speech,4627.1,4627.22,0.1199999999998908,랜덤 게임!,SPEAKER_24:1.00s(1.000),SPEAKER_24,AD
+speech,4627.24,4627.38,0.1400000000003274,게임 스타트!,SPEAKER_24:1.00s(1.000),SPEAKER_24,AD
+speech,4948.69,4977.5,28.8100000000004,2025년 팝뮤직 총결산 오늘 싱글 차트 결산 9위가 로제와 브루노 마스의 아파트 8위는 포스트 말론 피처링 모간 월런 I had some help 들었습니다 1년을 결산하는 차트 탑10 안에 아파트가 9위에 있다는 건 놀랍지 않아요?,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4977.52,4977.7,0.1799999999993815,7위는,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4978.88,4990.92,12.039999999999964,배철수의 음악 캠프 백캠 친구 시카고 롤라팔로자에서 방송할 때 알렉스 워렌을 만났죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4990.94,4991.36,0.4200000000000727,깜짝 놀랐어요.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4991.38,4991.78,0.3999999999996362,만나가지고.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4992.2,4997.27,5.0700000000006185,너무 착하고 그리고 어려서.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,4997.29,5001.12,3.8299999999999272,음악만 들을 때는 음악이 굉장히 뭐라 그럴까.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5001.85,5018.96,17.109999999999673,원숙한 느낌 이런걸 받았거든요 와 진짜 어린 친구들하고 7위 알렉스 워렌 오더네리 듣겠습니다 음악,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5021.51,5048.95,27.4399999999996,they say the holy water's watered down and this town's lost its faith our colors will fade eventually so if our time is running out day after day we'll make the mundane our masterpiece oh my my oh my my love i take one look at you you're taking me out,SPEAKER_10:1.00s(1.000),SPEAKER_10,MUSIC
+speech,5196.53,5201.24,4.710000000000036,"네, 알렉스 워렌 오더네리 7위 곡이었습니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5201.26,5203.53,2.269999999999527,"2025년 한 해 정말 많이 들었죠, 이 음악.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5204.11,5206.53,2.4200000000000728,알렉스 워렌 오더네리.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5206.55,5207.75,1.199999999999818,"자, 배출 수익 마크 캠프입니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5208.29,5210.72,2.430000000000291,4일간의 특집 방송.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5210.74,5213.16,2.4200000000000728,2025년 팝뮤직 총결산입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5213.66,5216.05,2.3900000000003274,오늘은 싱글 차트 결산해드리고요.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5216.09,5218.09,2.0,내일은 앨범 차트.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5218.07,5244.18,26.110000000000586,3일째는 락 차트 4일째는 재즈 차트 쭉 결산해 드리도록 하겠습니다 뭐 매년 하는 거죠 6위는 벤슨 부은의 Beautiful Things 이 음악도 진짜 많이 들었죠 이 친구 또 무대 매너도 재밌는데 벤슨 부은 Beautiful Things 이 음악 들으면서,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5245.14,5274.11,28.969999999999345,시간이 얼마 안 남았네요 4부 첫 곡으로 처음부터 다시 들려드리도록 하겠습니다 6위 벤슨 부흥 Beautiful Things For a while there it was rough But lately I've been doing better Than the last four cold Decembers I recall,SPEAKER_09:1.00s(1.000),SPEAKER_09,AD
+speech,5276.68,5301.92,25.23999999999978,i see my family every month i found a girl my parents love she'll come and stay the night and i think i might have it all and i thank god everyday for the girl he sent my way but i know the things he gives me he can take away,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5304.13,5324.15,20.019999999999527,mbc fm for you,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5325.02,5328.53,3.509999999999309,피부가 부들부들하니 온천 다녀온 것 같네 엄마 온천 갔다 왔어?,SPEAKER_08:1.00s(1.000),SPEAKER_08,AD
+speech,5328.91,5348.85,19.94000000000051,온천은 뭐하러 가 비드부들 바디워시 쓰면 되는데 우와 피부가 부들부들해 그치 피지가 55.6% 줄고 윤기는 17.6%나 증가한대 이름값 하네 몽잘 비드부들 바디워시 잘 만들었다 몽잘 비데 살 땐 당당하게 3년 애플 비데,SPEAKER_08:1.00s(1.000),SPEAKER_08,AD
+speech,5349.31,5363.82,14.509999999999309,전국 무료 설치는 애플 비데 온 가족 믿고 쓰는 애플 비데 3년 무상 AS부터 전국 무료 설치까지 비데는 역시 당당하게 3년 애플 비데 애플,SPEAKER_02:1.00s(1.000),SPEAKER_02,AD
+speech,5364.58,5376.14,11.5600000000004,커져라 친환경!,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,5376.16,5382.83,6.670000000000073,친환경 농산물 무농약으로 믿고 먹지 친환경 농산물 유기농으로 건강하자 친환경 농산물 자조금 관리위원회가 함께합니다.,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,5382.85,5382.99,0.1399999999994179,친환경 농산물,UNKNOWN:1.00s(1.000),,AD
+speech,5385.69,5411.06,25.3700000000008,한총물 대박날까 불안하네.,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,5411.16,5411.22,0.0600000000004001,한총물,UNKNOWN:1.00s(1.000),,AD
+speech,5414.43,5419.19,4.759999999999309,언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활입니다.,SPEAKER_04:1.00s(1.000),SPEAKER_04,AD
+speech,5419.21,5422.92,3.710000000000037,추위도 추위지만 서해안 쪽으로 많은 눈 소식이 있습니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5423.08,5426.48,3.399999999999636,어제부터 울릉도와 독도는 대설경보가 발효 중이고요.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5426.84,5433.95,7.109999999999673,오늘 오후부터는 제주에서 대설주의보 그리고 전라권과 제주 쪽은 내일 새벽 대설 예비특보가 내려져 있습니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5433.93,5441.61,7.679999999999381,"모레 새벽까지 서해안 많게는 10cm 이상, 울릉도와 독도, 제주 등은 30cm까지 눈이 쏟아지는 곳들이 있으니까요.",SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5442.21,5443.55,1.3400000000001455,각별히 대비해 두셔야겠고요.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5443.97,5449.84,5.869999999999891,특히 오늘 밤부터 내일 사이 강한 눈이 쏟아지겠으니까 피해 없도록 유의하셔야겠습니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5449.86,5452.65,2.789999999999964,이번 추위는 토요일 오전까지 계속됩니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5452.63,5457.26,4.630000000000109,"내일 아침 서울이 영하 12도, 철원 영하 17도 등으로 기온 자체도 낮고요.",SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5457.96,5461.08,3.119999999999891,바람도 상당히 강하게 불면서 체감되는 기온은 더욱 낮겠습니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5461.52,5464.0,2.4799999999995634,감기 걸리지 않도록 보온 철저히 유지하시고요.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5464.02,5467.21,3.1899999999996,눈 내리는 곳 제외한 대부분 지역은 맑겠습니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,5467.23,5481.74,14.510000000000218,언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활이었습니다.,SPEAKER_04:1.00s(1.000),SPEAKER_04,AD
+speech,5483.81,5509.06,25.25,for a while that it was rough but lately I've been doing better than the last four cold Decembers I recall and I see my family every month I found a girl my parents love she'll come and stay the night and I think I might have it all,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5511.29,5532.0,20.71000000000004,And I thank God every day For the girl he sent my way But I know the things he gives me he can take away And I hold you every night And that's a feeling I wanna get used to,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5533.33,5558.1,24.77000000000044,"There's no man as terrified as the man who stands to lose you Oh, I hope I don't lose you Please stay I want you, I need you, oh God, don't",SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5561.51,5588.04,26.529999999999745,please don't take,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,5589.94,5615.26,25.32000000000062,i found my mind i'm feeling sane it's been a while but i'm finding my faith if everything is good and it's great why do i sit and wait till it's gone oh i'll tell you i know i've got enough i've got peace and i've got love but i'm up and i'm thinking i just might lose it all,SPEAKER_09:1.00s(1.000),SPEAKER_09,MUSIC
+speech,5655.91,5662.64,6.730000000000473,벤슨 부은의 Beautiful Things 6위 곡 들었습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5662.66,5667.81,5.150000000000546,싱글 차트 결산 5위는 빌리 아일리쉬의 Birds of a Feather입니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5667.83,5669.53,1.699999999999818,이 노래도 정말 많이 들었죠.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5669.55,5675.38,5.829999999999927,"그리고 4위가 테디 스윔스, Lose Control 두 곡을 계속 듣겠습니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5675.64,5680.53,4.889999999999418,먼저 5위 빌리 아일리쉬의 Birds of a Feather,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,5918.84,5926.42,7.579999999999927,It's taking a toll on me Trying my best to keep from Tapping the skin off my bones,SPEAKER_19:1.00s(1.000),SPEAKER_19,MUSIC
+speech,6055.35,6066.65,11.299999999999272,When you're not here with me,SPEAKER_19:1.00s(1.000),SPEAKER_19,MUSIC
+speech,6094.98,6098.92,3.940000000000509,"테디 스윔스, 루즈 컨트롤.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6099.0,6100.26,1.2600000000002185,4위 곡 들었고요.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6100.28,6107.23,6.949999999999818,"앞에 들으시는 음악은 5위, 빌리 아일리시, Birds of a Feather였습니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6107.25,6110.91,3.6599999999998554,"2025년 팝뮤직 총결산, 오늘 싱글 차트 결산입니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6111.56,6115.06,3.5,"3위는, 와, 이 노래 진짜 작년에 엄청 들었죠.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6116.42,6120.28,3.8599999999996726,"샤브지, A Bar Song, Tipsy.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6120.3,6123.35,3.050000000000182,"2위는 캔들 글라마, And Caesar.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6123.78,6127.59,3.8100000000004,두 곡 듣겠습니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6127.61,6149.62,22.01000000000022,"먼저 샤브지의 A Bar Song, Tipsy.",SPEAKER_11:1.00s(1.000),SPEAKER_11,AD
+speech,6149.64,6150.79,1.1499999999996362,She's been telling me all night long,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,6205.42,6234.25,28.829999999999927,I've been boozy since I left I ain't changing for a check Tell my ma I ain't forgetting Woke up drunk at 10am We gon' do this shit again Tell your girl to bring a friend Oh lord Here comes the two to the three to the four Tell them bring another round We need 30 more Two stepping on the table She don't need a dance floor Oh my good lord Someone pour me up a double shot of whiskey They know me and J. Daniels gotta hit it,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,6235.09,6264.69,29.59999999999945,There's a party downtown near Fifth Street Everybody at the bar get tipsy Everybody at the bar get tipsy Everybody at the bar get tipsy It comes the two to the three to the four When it's last call and they kick us out the door It's getting kinda late but the ladies want some more Oh my good lord,SPEAKER_11:1.00s(1.000),SPEAKER_11,MUSIC
+speech,6266.09,6289.14,23.050000000000185,자막 제공 배달의민족,SPEAKER_11:1.00s(1.000),SPEAKER_11,AD
+speech,6300.4,6315.55,15.150000000000546,If this world were mine,SPEAKER_17:1.00s(1.000),SPEAKER_17,MUSIC
+speech,6336.49,6357.66,21.170000000000076,여러분 안녕하세요 여러분 안녕하세요,SPEAKER_17:1.00s(1.000),SPEAKER_17,AD
+speech,6477.03,6498.82,21.789999999999964,네 3위 곡 샤브지의 A Bar Song Tipsy 2위 캔들길라마 시저의 루터 들었습니다 자 배철수의 음악 캠프입니다 4일간의 특집방송 2025년 팝뮤직 총결산 광고 듣겠습니다,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6500.06,6504.41,4.349999999999454,안녕하십니까 경기주택도시공사 사장 김용진입니다.,SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,6504.43,6511.1,6.670000000000073,지난날 우리는 세대가 함께 어우러지고 서로가 서로를 돌보는 따뜻한 일상이 있었습니다.,SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,6511.84,6516.51,4.670000000000073,우리 경기주택도시공사 GH가 그 마음을 다시 잊고자 합니다.,SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,6517.15,6523.74,6.5900000000001455,누구도 소외되지 않고 배움과 건강 여가와 돌봄이 이웃과 함께 이어지는 곳,SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,6524.16,6534.77,10.610000000000582,단순한 집을 넘어 사람과 사람이 어울려 함께 살아가는 문화를 만드는 공간혁신 플랫폼 경기유니티 GH가 시작합니다.,SPEAKER_23:1.00s(1.000),SPEAKER_23,AD
+speech,6534.79,6539.52,4.730000000000473,모두의 커뮤니티 경기유니티 GH 경기주택도시공사,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,6540.75,6541.85,1.1000000000003638,안녕하세요.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6541.87,6546.39,4.520000000000437,"춤, 멋, 밥, 어느 것 하나 놓치지 않는 댄서 리정입니다.",SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6547.26,6549.62,2.3599999999996726,"신디, 혹시 24살에 뭐 하셨어요?",SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6549.64,6552.08,2.4399999999996,MBC 라디오 심심타파.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6552.1,6554.46,2.3599999999996726,그럼 34살에는 뭐 했어요?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6554.48,6555.98,1.5,MBC 라디오 정우의 희망곡.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6556.49,6557.51,1.0200000000004366,그럼 44살에는?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6558.23,6560.31,2.0800000000008367,54살에는?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6560.33,6560.47,0.1400000000003274,그 다음에는?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6560.49,6564.26,3.770000000000437,내가 정우의 희망곡을 계속하고 있으란가 모르겠다.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6564.34,6564.38,0.0399999999999636,어?,UNKNOWN:1.00s(1.000),,AD
+speech,6565.08,6575.83,10.75,그래 언니 걱정하지마 MBC 라디오 완전 언니꺼야 케이팝 전문가 리정도 사랑하는 DJ 김신영의 정오의 희망곡 골든마우스 가자!,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6580.07,6591.76,11.69000000000051,저는 테디한테 하고 싶은 말이 있었는데요.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6591.78,6591.88,0.1000000000003638,저한테요?,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,6591.9,6592.32,0.4200000000000727,사실 원래는 테이가 누군지 몰랐거든요.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6592.34,6593.02,0.680000000000291,너무 웃기셔서 코미디언인가 생각하기도 하고 에이 거짓말하지마.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6593.04,6594.18,1.1400000000003274,지금 삼촌 누군지 알아요?,SPEAKER_33:1.00s(1.000),SPEAKER_33,AD
+speech,6594.24,6600.23,5.989999999999782,이름 알아요?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6600.25,6600.33,0.0799999999999272,테디요.,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6600.35,6600.99,0.6399999999994179,테이라는 가수도 제가 라디오를 처음 알았단 말이에요.,SPEAKER_33:1.00s(1.000),SPEAKER_33,AD
+speech,6601.01,6605.56,4.550000000000182,그래도 가수라고는 알고 있었어요?,SPEAKER_05:1.00s(1.000),SPEAKER_05,AD
+speech,6605.58,6606.04,0.4600000000000364,밥 잘 먹는 사장님 이 정도 에이,SPEAKER_33:1.00s(1.000),SPEAKER_33,AD
+speech,6607.12,6614.71,7.5900000000001455,"코미디언, 테디 삼촌, 밥 잘 먹는 사장님, 별소리를 다 듣는 발라드 황태자 태희의 고된 밥벌이.",SPEAKER_33:1.00s(1.000),SPEAKER_33,AD
+speech,6615.65,6621.08,5.430000000000291,매일 아침 7시 굿모닝 FM 태희입니다.,SPEAKER_33:1.00s(1.000),SPEAKER_33,AD
+speech,6621.1,6625.89,4.789999999999964,잠시 후 8시부터 김이나의 별이 빛나는 밤에가 방송됩니다.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,6625.91,6628.43,2.520000000000437,어제다 못한 얘기 오늘마저 나눠요.,SPEAKER_31:1.00s(1.000),SPEAKER_31,AD
+speech,6630.73,6659.7,28.97000000000025,배철수의 음악 캠프입니다 2025년 팝뮤직 총결산 오늘은 싱글 차트 결산입니다 내일 앨범 차트 그리고 록 차트 재즈 차트 2025년에 바쁘셔가지고 음악을 좀 못 들었던 분들도 이 4일 동안 들으시면 아 2025년에 팝음악계가 이렇게 흘러갔구나 또 이런 음악들이 인기가 있었구나 하고 아실 수가 있습니다,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6659.68,6679.61,19.92999999999938,자 싱글 차트 1위 레이디 가가 그리고 브루노 마을스 다이 위드 스마일입니다 아 이 노래도 진짜 많이 나왔죠 자 오늘은 이 노래 들으면서 마치도록 하겠습니다 처음 시작하면서 얘기 드렸습니다만,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6680.37,6692.75,12.38000000000011,새해에는 늘 건강하시고 행복하고 또 배철수의 음악 캠프에서 자주 만날 수 있는 그런 한 해가 되길 바랍니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6692.77,6698.49,5.719999999999345,레이디 가가 앤 브루노 마우스의 Die with a smile 들으면서 마칩니다.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6698.51,6705.86,7.349999999999454,"프로듀서 송명석, 작가 김경옥, 배순탁, 박소영, 디스크자키 배철수입니다.",SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6705.88,6708.61,2.7299999999995634,다시 한 번 새해 복 많이 받으십시오.,SPEAKER_30:1.00s(1.000),SPEAKER_30,DJ
+speech,6721.24,6746.62,25.38000000000011,i just woke up from a dream where you and i had to say goodbye and i don't know what it all means but since i survived i realized wherever you go that's where i'll follow nobody's promised tomorrow,SPEAKER_20:1.00s(1.000),SPEAKER_20,MUSIC
+speech,6765.79,6776.71,10.920000000000073,just for a while,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,6842.76,6871.1,28.340000000000146,I wanna be next to you Right next to you,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,6877.28,6906.36,29.079999999999927,Right next to you If the world was ending I'd wanna be next to you,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,6909.92,6935.54,25.61999999999989,i wanna be next to you,SPEAKER_25:1.00s(1.000),SPEAKER_25,MUSIC
+speech,6949.06,6968.65,19.58999999999924,잠깐만,SPEAKER_25:1.00s(1.000),SPEAKER_25,AD
+speech,6974.55,6975.29,0.7399999999997817,안녕하세요.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,6975.73,6977.8,2.0700000000006185,배우 원진아입니다.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,6977.86,6980.32,2.4600000000000364,저는 스스로에게 내가 잘하고 있나?,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,6980.94,6983.84,2.9000000000005457,하는 질문을 자주 던집니다.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,6983.86,6987.11,3.25,만족하기 쉽지 않은 일이기 때문인 것 같아요.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,6987.13,6993.94,6.809999999999491,하지만 이런 태도는 저를 더 힘들게 하기 때문에 일과 심을 확실하게 분리합니다.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,6993.96,6999.46,5.5,최선을 다해 일하되 만족스럽지 못하더라도 쉬는 시간엔 다시 되돌아보지 않죠.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,7000.19,7020.85,20.660000000000764,쉴 때만큼은 나를 다독이고 좋아하는 것을 해주면서 건강한 시간을 보내려고 노력해야 일할 땐 더 치열해질 수 있다고 있습니다.,SPEAKER_01:1.00s(1.000),SPEAKER_01,AD
+speech,7020.87,7027.17,6.300000000000182,이 캠페인은 언제나 당신 곁에 MG 새마을금고와 함께합니다.,SPEAKER_00:1.00s(1.000),SPEAKER_00,AD
+speech,7027.19,7029.74,2.550000000000182,지금 시각은 7시 57분입니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,7034.83,7035.35,0.5200000000004366,안녕하세요.,SPEAKER_28:1.00s(1.000),SPEAKER_28,AD
+speech,7035.79,7037.21,1.4200000000000728,이정재입니다.,SPEAKER_28:1.00s(1.000),SPEAKER_28,AD
+speech,7037.23,7043.9,6.670000000000073,70년 현대해상의 여정을 함께해 주신 고마운 모든 분들을 위해 마음이 합니다.,SPEAKER_28:1.00s(1.000),SPEAKER_28,AD
+speech,7063.78,7063.86,0.0799999999999272,현대해상,UNKNOWN:1.00s(1.000),,AD
+speech,7065.73,7083.28,17.550000000000182,매일 아침 10시 새롭게 선보이는 신상품,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,7084.9,7109.19,24.289999999999964,숭실사이버대에서 숭실력자 나의 꿈을 숭 실력발이 쏴 숭실력자 내 실력이 숭 실전으로 쏴 쏴 쏴 숭쏴 실전형 커리큘럼 숭실력자 숭쏴 숭실사이버대 지금 수시 모집 중 비대 살 땐 당당하게 3년 애플 비대 애플,SPEAKER_09:1.00s(1.000),SPEAKER_09,AD
+speech,7109.28,7127.55,18.27000000000044,전국 무료 설치는 애플 비데 온가족 믿고 쓰는 애플 비데 3년 무상 AS부터 전국 무료 설치까지 비데는 역시 당당하게 3년 애플 비데 애플 마사지가 필요할 땐 함빛,SPEAKER_02:1.00s(1.000),SPEAKER_02,AD
+speech,7144.85,7163.89,19.039999999999964,한 번쯤 나를 돌아보고 싶은 순간 그 마음을 헤아리는 기술 과학으로 섬세함을 담은 그 이름 올리디아,SPEAKER_06:1.00s(1.000),SPEAKER_06,AD
+speech,7164.68,7186.97,22.289999999999964,입학이 부취업 졸업이 부취업 수원여자대학교 여성비도 양성 미래를 만드는 수원여자대학교 세상을 바꾸는 여성의 힘 수원 수원여자대학교 아파 본 사람은 압니다.,SPEAKER_26:1.00s(1.000),SPEAKER_26,AD
+speech,7186.99,7194.23,7.239999999999782,아프지 않은 일상이 얼마나 소중한지를 당신의 건강이 흔들릴 때 어떤 순간에도 당신을 지킵니다.,SPEAKER_29:1.00s(1.000),SPEAKER_29,AD
+speech,7194.3,7200.97,6.670000000000073,"줄기세포, 면역세포를 위한 EHL 바이오만의 솔루션은 이미 시작되었습니다.",SPEAKER_07:1.00s(1.000),SPEAKER_07,AD
+speech,7204.77,7205.98,1.2099999999991269,당신을 지킵니다.,SPEAKER_07:1.00s(1.000),SPEAKER_07,AD

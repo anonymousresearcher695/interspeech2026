@@ -1,0 +1,380 @@
+[0000.03 - 0009.33] SPEAKER_08: 당신을 지킵니다 당신을 지키는 EHL 바이오가 6시를 알려드립니다
+[0042.59 - 0047.92] SPEAKER_23: 인간의 오감은 시각, 청각, 후각, 미각, 촉각.
+[0047.94 - 0057.13] SPEAKER_23: 거기에 분석적인 사고를 하지 않고도 직관으로 사태의 진상을 잘 파악하는 육감이 더해집니다.
+[0057.15 - 0061.64] SPEAKER_23: 지금은 그 여섯 가지 감각만으로는 못 사는 세상이에요.
+[0061.70 - 0064.52] SPEAKER_23: 초연결지능인 제7의 감각이 있어야 해요.
+[0065.60 - 0067.25] SPEAKER_23: 네트워크 시대니까요.
+[0067.27 - 0071.01] SPEAKER_23: 지금은 연결되어 있지 않은 건 죽은 거나 마찬가지예요.
+[0077.37 - 0082.72] SPEAKER_23: 왜 너는 네 일상을 그 세상 사람들과 공유하려고 해?
+[0082.74 - 0086.69] SPEAKER_23: 왜 너는 너의 DNA와 신상 정보를 건네주려는 거야?
+[0088.05 - 0088.17] SPEAKER_23: 뭐라고?
+[0089.09 - 0092.02] SPEAKER_23: 청각매체인 라디오를 보고 있다고?
+[0093.53 - 0103.53] SPEAKER_23: 연결되어 있으면 더 유용해지는 세상에서 제7의 감각은 어떤 사물이 연결에 의해 바뀌는 방식을 알아채는 능력입니다.
+[0104.33 - 0109.28] SPEAKER_23: 오늘날 연결을 놓치면 기회를 놓치는 일이 다반사입니다.
+[0124.33 - 0135.63] SPEAKER_23: 제7의 감각 초연결지능에서는 인간사의 진보가 기회를 통해 온다는 사실을 새삼 일깨웁니다.
+[0135.65 - 0148.25] SPEAKER_23: 2026년 올해 우리는 어떤 기회가 올지는 예측할 수 없지만 제7의 감각을 한껏 키워서 그 기회를 잘 발견하려 합니다.
+[0149.91 - 0151.54] SPEAKER_23: 1월 3일 토요일입니다.
+[0152.36 - 0160.31] SPEAKER_23: 배철수의 음악 캠프에서는 계속해서 특집 방송 2025년 팝뮤직 총결산.
+[0160.39 - 0162.41] SPEAKER_23: 오늘은 락 차트입니다.
+[0162.43 - 0167.04] SPEAKER_23: 먼저 핫 락 송스 차트입니다.
+[0168.28 - 0175.89] SPEAKER_23: 락 차트는 핫 락 송스 차트하고 락 앤 얼터너티브 송스 차트로 나누어집니다.
+[0175.91 - 0177.79] SPEAKER_23: 겹치는 노래들이 많긴 한데
+[0178.48 - 0185.63] SPEAKER_23: 왜 이렇게 나오냐면 일단 모르겠어요.
+[0185.65 - 0185.89] SPEAKER_23: 통합하면 안될까 통합?
+[0185.91 - 0189.50] SPEAKER_23: 자 핫 왁송스 차트 10위부터 출발합니다.
+[0189.52 - 0198.77] SPEAKER_23: 10위 브랜든 레이크 젤리 롤 핫 포트 할렐루야
+[0209.16 - 0238.17] SPEAKER_34: I don't always feel it But that's when I need it the most So I'ma keep on singing Till my soul catches up with my song There's times when my hands go up freely And times that it calls
+[0238.81 - 0253.72] SPEAKER_34: There's days when a praise comes out easy Days when it takes all the strength I've got I'll bring my heart, fought, hard, fell, been through hell, high
+[0260.02 - 0287.75] SPEAKER_18: 한글자막 by 한효정 한글자막 by 한효정
+[0298.62 - 0324.68] SPEAKER_16: I've wrestled with the darkness But I'm trying to reach for the light Yeah, the struggle keeps me honest And it breaks down the walls of my pride Cause faith isn't proven like gold Till it's been through the fire
+[0328.32 - 0355.69] SPEAKER_18: my head hard and hands are feeling heavy that's when I lift them just a little higher now bring my heart up heartfelt big through hell hallelujah now bring my storm talks to myself story to tell hallelujah
+[0358.05 - 0367.93] SPEAKER_16: 자막 제공 배달의민족
+[0443.10 - 0470.19] SPEAKER_18: 할렐루야
+[0480.41 - 0507.40] SPEAKER_18: 할렐루야 할렐루야 할렐루야 할렐루야
+[0508.12 - 0532.29] SPEAKER_23: 할렐루야 네 핫 락 송스 차트 10위 브랜든 레이크 & 젤리 롤 핫 포트 할렐루야 들었습니다 자 9위는 잭 브라이언의 핑크 스카이 씁니다 광고 뒤에 듣겠습니다
+[0534.68 - 0553.13] SPEAKER_19: 코끼리 베이글 눈코입이 즐겁다 코끼리 베이글
+[0573.34 - 0597.63] SPEAKER_32: 자꾸자꾸 이비가 이비가 짬뽕 이비가 짬뽕 모델 김태균입니다 국물 맛은 칼칼한데 자극적이지 않아 속은 편안한 남녀노소 모두가 완뽕하게 되는 바로 그 짬뽕 이비가 이비가요 이비가 짬뽕 1일 1짬뽕 오케이?
+[0597.65 - 0598.15] SPEAKER_08: 서울사이버대학을 다니고 나의 성공시대 시작됐다
+[0599.04 - 0613.56] SPEAKER_08: 반려동물 산업학과, 스포츠 지도학과, 응용수학 통계학과 등 사이버대 최대 49개 학과 전공해서 지금 신입생, 편입생을 보집 중입니다.
+[0626.45 - 0627.41] SPEAKER_18: 이모보면 알아 디테일도 좋아 자극복은 역시 지배인가
+[0629.23 - 0631.72] SPEAKER_24: 대한민국 대표 워크웨어 지벤.
+[0631.74 - 0634.22] SPEAKER_24: 일하는 지금은 지벤 시대.
+[0634.24 - 0636.47] SPEAKER_08: 세계 10대 슈퍼푸드 브로콜리.
+[0637.47 - 0639.89] SPEAKER_08: 겨울엔 브로콜리 카레 어떠세요?
+[0640.75 - 0643.72] SPEAKER_08: 겨울의 카레 브로콜리 카레.
+[0643.74 - 0650.01] SPEAKER_08: 계절마다 카레를 다르게 계절마다 카레를 맛있게 카레로 계절을 맛보세요.
+[0650.09 - 0656.66] SPEAKER_29: 일요일은 오뚜기 카레 오뚜기 아팠던 분들에게 보험 가입의 기준 너무 높죠?
+[0657.20 - 0660.53] SPEAKER_29: 하지만 간편건강보험이라면 어떨까요?
+[0660.55 - 0673.41] SPEAKER_29: 고혈압, 당뇨, 디스크가 있어도 몇 가지 질문만으로 간편하게 가입 가능 유병자 걱정 덜어주는 현대해상 간편건강보험 심사기준에 따라 가입이 제한될 수 있으니 유의사항을 확인하세요
+[0673.88 - 0679.91] SPEAKER_28: 맑은 물이 흐르고 온도 변화가 크지 않은 까다로운 곳에서 자라는 와사비.
+[0679.93 - 0683.67] SPEAKER_28: 주비푸드는 그런 와사비의 뿌리 부분만을 엄선해 사용합니다.
+[0684.35 - 0699.61] SPEAKER_18: 소비자들을 존중하기에 좋은 원료, 정직한 표기를 약속합니다.
+[0699.63 - 0699.95] SPEAKER_18: 아름다운 식탁 창조 주비푸드.
+[0699.97 - 0700.45] SPEAKER_18: 미미미르 에셋 미미르 에셋 투자는 미미라에셋
+[0704.98 - 0715.80] SPEAKER_08: 안녕하세요.
+[0715.98 - 0718.99] SPEAKER_24: 노란우산 홍보대사 탁재훈입니다.
+[0719.01 - 0724.74] SPEAKER_24: 세금 걱정에 노후 걱정까지 요즘 사장님들 참 걱정이 많으시죠.
+[0724.76 - 0728.97] SPEAKER_24: 이제 노란우산이 사장님 걱정을 탁 덜어드릴게요.
+[0731.31 - 0745.00] SPEAKER_24: 매년 최대 600만 원 소득공제, 부금 내 대출 지원은 물론 국내 이자로 퇴직금 역할까지 대한민국 사장님 곁엔 언제나 노란우산이 함께합니다.
+[0745.02 - 0750.75] SPEAKER_24: 사장님의 걱정을 탁 덜어들이는 든든한 희망자산, 노란우산.
+[0765.28 - 0787.52] SPEAKER_11: 자막 제공 및 영상 제공 및 광고를 포함하고 있습니다.
+[0817.76 - 0843.72] SPEAKER_11: 자막 제공 및 영상 제공 및 광고를 포함하고 있습니다.
+[0846.90 - 0876.76] SPEAKER_11: and the grass all smells the same as the day he broke your arm swingin' on that kid out on the river You bailed him out, never said a thing about Jesus or the way he's livin' If you could see him now, you'd be proud But you'd think they'd be happy Your funeral was beautiful I bet God heard you comin'
+[0889.61 - 0918.64] SPEAKER_11: The kids are in town for a funeral So pack the car and dry your eyes
+[0921.98 - 0933.85] SPEAKER_11: I know they got plenty of young blood left in them And plenty nights under pink skies You taught them to enjoy
+[0941.69 - 0948.04] SPEAKER_23: 2025년 팝뮤직 총결산 오늘 락차트 결산입니다.
+[0948.59 - 0955.02] SPEAKER_23: 핫 락송스 차트 9위 잭 브라이언의 핑크 스카이스 들었습니다.
+[0955.60 - 0960.59] SPEAKER_23: 락차트를 쭉 살펴보면 예전하고 확실히 다르죠?
+[0960.73 - 0967.47] SPEAKER_23: 예전에는 진짜 강력한 락 음악들이 많았는데 요즘은 락 음악들도 다 굉장히 소프트해졌습니다.
+[0967.49 - 0975.87] SPEAKER_23: 그래서 이게 락인지 팝인지 컨츄리인지 경계가 좀 모호하긴 해요.
+[0975.88 - 0980.05] SPEAKER_23: 8위는 Zombo의 Back to Friends입니다.
+[0980.07 - 0983.75] SPEAKER_23: 7위도 Zombo의 Undressed.
+[0983.77 - 0986.56] SPEAKER_23: 두 곡을 이어듣겠습니다.
+[0986.58 - 0989.48] SPEAKER_23: 먼저 8위 Zombo의 Back to Friends입니다.
+[1014.05 - 1030.57] SPEAKER_18: my body tender cause the feeling makes me weak kicking off the covers i see the ceiling water
+[1047.66 - 1050.03] SPEAKER_18: 감사합니다.
+[1088.96 - 1092.20] SPEAKER_18: 고맙습니다.
+[1364.26 - 1367.34] SPEAKER_23: 존버의 노래 두 곡 계속 들었습니다.
+[1367.36 - 1373.05] SPEAKER_23: 8위 Back to Friends, 7위 Undressed입니다.
+[1373.07 - 1376.37] SPEAKER_23: 2025년 판뮤직 총결산 록 차트입니다.
+[1377.39 - 1387.85] SPEAKER_23: 핫 록 송스 차트 6위는 젤리롤의 Liar 그리고 5위가 지지 페레즈의 Sailor Song입니다.
+[1388.17 - 1388.69] SPEAKER_23: 두 곡을 계속 듣겠습니다.
+[1388.71 - 1392.15] SPEAKER_23: 먼저 6위 젤리롤, Liar
+[1399.80 - 1402.70] SPEAKER_16: i let you drive around my mind
+[1404.23 - 1431.40] SPEAKER_16: i can't count the times you made me feel like i'm nothing played me like a fool like a fool saying drink another whiskey pop another pill money makes you happy heaven isn't real you won't find nobody to love because your heart's too broke now i know you ain't nothing but a lie
+[1433.70 - 1461.29] SPEAKER_16: yeah i walk right out the fire yeah you try to keep me down try to put me underground but i'm only going higher i can hear you in my head in my bed when i'm dreaming you try to be my friend but you're blowing slow oh and now i ain't scared of telling you where you can go
+[1557.44 - 1583.87] SPEAKER_16: 예, I walk right out the fire Yeah, you try to keep me down Try to put me underground But I'm only going higher I can hear you in my head In my bed when I'm dreaming You try to be my friend But you're blowing slow Oh, but now I ain't scared
+[1585.81 - 1592.58] SPEAKER_16: 고맙습니다.
+[1698.58 - 1724.24] SPEAKER_18: she took my fingers to her mouth the kind of thing that makes you proud that nothing else had ever worked out worked out
+[1725.23 - 1736.53] SPEAKER_32: 악보 찾으려면 어디로 가야 되지?
+[1736.55 - 1749.65] SPEAKER_18: 악보부터 받아 여기는 악보 바다 악보 찾다 열받아 컴다운 악보 바다 퀄리티가 달라 여기는 악보 바다 컴온 요 악보 바다 세상 모든 악보 온라인도 모바일도 여기서 다 다운받아 뮤직디자이너 악보 바다 비데 살 땐 당당하게 3년 애플 비데 애플
+[1749.75 - 1778.25] SPEAKER_20: 전국 무료 설치는 애플 비데 애플 온가족 믿고 쓰는 애플 비데 애플 3년 무상 AS부터 전국 무료 설치까지 비데는 역시 당당하게 3년 애플 비데 애플 입학이고 취업 졸업이고 취업 수원여자대학교 교성비더 양성 미래를 만드는 수원여자대학교
+[1780.46 - 1804.43] SPEAKER_19: 수원여자대학교
+[1813.42 - 1819.58] SPEAKER_03: 언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활입니다.
+[1819.75 - 1825.89] SPEAKER_04: 아침까지는 강추위가 이어지다가 낮부터 기온이 올랐는데 그래도 바람은 여전히 차갑습니다.
+[1826.01 - 1827.88] SPEAKER_04: 감기 걸리지 않도록 조심하셔야겠고요.
+[1828.32 - 1830.84] SPEAKER_04: 내일은 오늘보다 기온이 더 오르겠습니다.
+[1830.96 - 1835.03] SPEAKER_04: 서울의 아침 기온은 영하 4도, 낮 기온은 4도가 예상됩니다.
+[1835.53 - 1838.97] SPEAKER_04: 일부 수도권과 동쪽 지방에 건조특보 계속되고 있습니다.
+[1839.41 - 1846.06] SPEAKER_04: 또 서풍을 타고 미세먼지가 날아오면서 내일 수도권과 충북, 전북은 종일 공기가 탁할 것으로 보이고요.
+[1846.04 - 1851.33] SPEAKER_04: 다음 주는 주 후반에 중부와 호남을 중심으로 비나 눈이 내릴 전망입니다.
+[1851.89 - 1856.67] SPEAKER_04: 영동고속도로 인천 방향 정체 20km 구간에서 계속되고 있습니다.
+[1857.10 - 1863.71] SPEAKER_04: 평창에서 둔내터널, 동수원에서 북수원, 월굿 부근에서 지체서행 이어지고 있습니다.
+[1863.73 - 1867.37] SPEAKER_04: 김유정입니다.
+[1867.39 - 1872.50] SPEAKER_03: 언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활이었습니다.
+[1878.07 - 1880.71] SPEAKER_23: 배철수의 음악 캠프입니다.
+[1880.73 - 1890.70] SPEAKER_23: 4기간의 특집방송 2025년 팝뮤직 총결산 오늘 락차트 결산해드리고 있습니다.
+[1890.72 - 1892.37] SPEAKER_23: 먼저 핫 락송스 차트 락차트는 이렇게 두 가지로 나눠집니다.
+[1893.65 - 1903.68] SPEAKER_23: 핫 락송스 차트하고 핫 락 앤 얼터너티브 송스 차트 겹치는 노래들이 굉장히 많습니다.
+[1903.70 - 1907.48] SPEAKER_23: 먼저 핫 락송스 차트 4위
+[1907.63 - 1911.74] SPEAKER_23: 더 마리아스입니다.
+[1911.76 - 1919.63] SPEAKER_23: 작년 여름에 롤라팔로자에서 인터뷰가 예정돼 있다가 뭐가 스케줄이 잘 안 맞아가지고 못했습니다.
+[1919.65 - 1920.30] SPEAKER_23: 더 마리아스.
+[1921.06 - 1922.12] SPEAKER_23: 그때 만났으면 좋았을걸.
+[1922.86 - 1927.97] SPEAKER_23: 더 마리아스의 No One Noticed 4위 곡 듣겠습니다.
+[1962.85 - 1965.70] SPEAKER_26: 안녕히 계세요.
+[2163.86 - 2164.94] SPEAKER_23: 목소리 매력적이죠.
+[2165.89 - 2169.55] SPEAKER_23: 마리아스의 No One No Taste.
+[2169.57 - 2170.93] SPEAKER_23: 4위 곡 들었습니다.
+[2171.19 - 2178.86] SPEAKER_23: 핫 록송 스타트 3위는 빌리 아일리쉬 와일드 플라워입니다.
+[2178.88 - 2182.53] SPEAKER_23: 2위가 마일스 스미스 스타 게이징.
+[2183.53 - 2183.99] SPEAKER_23: 두 곡 듣겠습니다.
+[2184.15 - 2187.78] SPEAKER_23: 먼저 3위 빌리 아일리쉬 와일드 플라워.
+[2204.46 - 2232.49] SPEAKER_17: Things fall apart And time breaks your heart I wasn't there but I know She was your girl You showed her the world We fell out of love and you both let go She was crying on my shoulder
+[2233.40 - 2262.87] SPEAKER_17: all i could do is hold her only made us closer until july now i know that you love me you don't need to remind me i should put it all behind me shouldn't i but i see her in the back of my mind all the time
+[2353.10 - 2356.43] SPEAKER_17: 아멘
+[2425.78 - 2429.63] SPEAKER_15: i see my whole life
+[2556.34 - 2580.27] SPEAKER_15: 락송 스타트
+[2580.37 - 2584.48] SPEAKER_23: 3위 빌리 아일리쉬의 Wild Flower.
+[2584.50 - 2587.52] SPEAKER_23: 2위 마일 스미스의 Stargazing.
+[2587.54 - 2591.35] SPEAKER_23: 두 곡을 들었습니다.
+[2591.67 - 2595.39] SPEAKER_23: 핫 락송스 차트 1위는 이 노래도 백혜미스도 진짜 많이 나갔죠.
+[2595.85 - 2598.28] SPEAKER_23: 호지어.
+[2598.30 - 2598.50] SPEAKER_23: Too Sweet.
+[2753.47 - 2755.13] SPEAKER_18: 고맙습니다.
+[2850.40 - 2856.62] SPEAKER_23: 호지오의 Too Sweet 핫 락송 스타트 1위곡 들었습니다.
+[2856.64 - 2856.72] UNKNOWN: 자 이제
+[2858.18 - 2862.33] SPEAKER_23: Hot Rock and Alternative Songs 차트 보겠습니다.
+[2862.51 - 2862.83] SPEAKER_23: 제가 아까 얘기 드렸죠?
+[2863.27 - 2866.01] SPEAKER_23: 겹치는 곡이 엄청 많습니다.
+[2866.13 - 2870.90] SPEAKER_23: 그래서 이 차트는 1위부터 소개해드립니다.
+[2870.92 - 2874.97] SPEAKER_23: 1위는 빌리 아일루시의 Birds of Feather가 있고요.
+[2874.99 - 2878.31] SPEAKER_23: 2위가 방금 들으신 호지어의 Too Sweet.
+[2878.33 - 2880.51] SPEAKER_23: 3위는 마일 스미스의 Stargazing.
+[2881.26 - 2882.06] SPEAKER_23: 이거 다 들으셨죠?
+[2882.62 - 2887.60] SPEAKER_23: 4위 빌리 아일루시의 Wild Flower.
+[2887.62 - 2887.68] UNKNOWN: 5위가
+[2888.09 - 2891.32] SPEAKER_23: 롤라영의 메시입니다.
+[2891.40 - 2891.70] SPEAKER_23: 두 곡을 듣겠습니다.
+[2891.84 - 2898.99] SPEAKER_23: 먼저 빌리 아일리쉬의 Buzz the Feather 1위 곡 그리고 5위 롤라영의 메시
+[3108.02 - 3112.66] SPEAKER_23: 네, 빌리 아일리시, Birds of Feather.
+[3112.68 - 3112.94] SPEAKER_23: 1위 곡.
+[3113.04 - 3115.89] SPEAKER_23: 5위를 차지한 롤 하영까지 들으려고 했더니 안 되는 시간이.
+[3115.91 - 3118.03] SPEAKER_23: 광고 듣겠습니다.
+[3118.05 - 3120.79] SPEAKER_08: 맛있는 돼지고기가 왔어요.
+[3120.81 - 3128.50] SPEAKER_08: 우리 아이 도드람, 우리 남편 도드람.
+[3128.52 - 3128.92] SPEAKER_08: 우리 가족 도드람, 든든해요 도드람.
+[3128.94 - 3132.86] SPEAKER_08: 맛있는 도드람이 우리 집으로 왔어요.
+[3132.88 - 3134.84] SPEAKER_08: 맛있는 우리 돼지 도드람.
+[3135.24 - 3136.84] SPEAKER_25: 온라인에서도 도드람.
+[3138.21 - 3165.77] SPEAKER_18: 피부에 닿는 느낌 올리지요 올리지요 강하고 부드럽게 해요 올리지요 올리지요 당신에게는 올리지요 의료기기 광고심이 필 지금은 우리 아이 키 크는 시간 또래보다 키가 작다면 키 성장엔 아이클 타임 키가 크고 싶다면 키 성장엔
+[3166.59 - 3171.40] SPEAKER_08: 특히 더 늦기 전에 아이클 타임으로 키워주세요.
+[3171.42 - 3172.62] SPEAKER_08: 상담전화 1544-1919.
+[3172.64 - 3174.92] SPEAKER_08: 제조사 주서홍의 스퀘어.
+[3174.94 - 3175.24] SPEAKER_08: 판매온 두두린.
+[3175.26 - 3177.40] SPEAKER_08: 이 광고는 건강기능식품 광고입니다.
+[3177.42 - 3181.81] SPEAKER_07: 폐암 환자나 그 유가족은 직업형 산재보상 대상이라는 거 알고 계신가요?
+[3182.27 - 3186.83] SPEAKER_07: 과거 건설 현장이나 공장과 같은 환경에서 일했던 분이라면 가능합니다.
+[3186.85 - 3188.55] SPEAKER_07: 일용직도 가능합니다.
+[3188.57 - 3192.16] SPEAKER_07: 노무법인 폐가 직접 해결해드리겠습니다.
+[3192.18 - 3193.14] SPEAKER_07: 폐암 산재보상 전문.
+[3193.12 - 3200.78] SPEAKER_07: 1544-7575 IS동서는 봅니다.
+[3201.49 - 3215.98] SPEAKER_07: 쓸모없던 땅에서 친환경 건설의 내일을 세우고 폐기물에서 전기차의 새로운 미래를 만들고 아이들에게 희망의 세상을 열어주는 ESG 경영으로 더 큰 내일을 봅니다.
+[3216.00 - 3219.68] SPEAKER_07: IS동서 싱크볼 바꿀 때 되셨죠?
+[3228.69 - 3249.82] SPEAKER_06: 오래된 싱크대 이제 싱크볼만 바꿔보세요 60년 주방 전문 백조싱크 백조싱크 고규필 고객님 어 왔다 재미가 와 놀라움이 와 혜택이 와 재미있게 놀랍게 다양하게
+[3251.24 - 3253.94] SPEAKER_32: 와 보고 싶은 뱅크?
+[3253.96 - 3259.21] SPEAKER_25: 고규필도 와 뱅크 광주은행 통합형 AI 고객센터?
+[3259.23 - 3268.24] SPEAKER_19: 믿고 맡길 수 있어?
+[3268.26 - 3276.79] SPEAKER_19: TWC는 달라 비용도 효율도 모두 계란티 운영 비용 다운 상담 퀄리티는 UP AI 전문기업 TWC 통합형 AI 고객센터는 TWC
+[3279.97 - 3294.16] SPEAKER_23: 자, 2025년 팜 뮤직 총별산 락 차트 락 앤 얼터너티브 송스 차트 5위 곡 롤라영의 메시입니다.
+[3294.26 - 3296.66] SPEAKER_23: 얼른 못 나가서 이 음악 들으면서 1, 2부 마칩니다.
+[3296.68 - 3304.61] SPEAKER_02: 3부에 처음부터 다시 들려드립니다.
+[3304.63 - 3305.47] SPEAKER_02: 3부에 처음부터 다시 들려드립니다.
+[3340.69 - 3365.55] SPEAKER_18: i'm too perfect so i open my big mouth i want to be me is that not allowed and i'm too clever and i'm too stupid though you hate it when i cry and it's the spare time of the month and i'm too perfect so i show you that i'm not a thousand people i could be for you and you hate don't hold on
+[3369.24 - 3372.93] SPEAKER_07: 꿈꾸는 당신이 아름답습니다.
+[3372.95 - 3380.06] SPEAKER_07: 붉은색 광선은 시신경을 자극해서 아드레날린을 분비시키고 혈액순환을 촉진하는 효과가 있다죠.
+[3380.62 - 3385.55] SPEAKER_07: 그래서 우울증 치료제를 일부러 빨간색으로 코팅하기도 한답니다.
+[3385.57 - 3386.97] SPEAKER_07: 유치원 관찰 실험도 있는데요.
+[3387.49 - 3390.26] SPEAKER_07: 빨간색 방 아이들은 육체놀이에 집중하고
+[3390.45 - 3394.38] SPEAKER_07: 파란색 방 아이들은 독서처럼 정적인 활동을 많이 하더라.
+[3395.18 - 3397.75] SPEAKER_07: 겨울은 육체가 위축되는 계절이죠.
+[3398.49 - 3405.96] SPEAKER_07: 가끔씩 일부러 빨간색 그림이나 사진을 보고 특히 운동하러 나갈 때엔 빨간색 옷, 아주 민망할까요?
+[3406.62 - 3410.07] SPEAKER_07: 빨간색 머플러나 모자 정도는 괜찮겠죠?
+[3414.47 - 3427.66] SPEAKER_07: mbc 캠페인 꿈의 지도 sk 브로드밴드 소상공인 더드림 성공 패키지가 함께합니다.
+[3427.68 - 3430.25] SPEAKER_07: 지금 시각은 6시 57분입니다.
+[3435.29 - 3435.81] SPEAKER_27: 안녕하세요.
+[3436.25 - 3437.68] SPEAKER_27: 이정재입니다.
+[3437.70 - 3460.66] SPEAKER_19: 70년 현대해상의 여정을 함께해 주신 고마운 모든 분들을 위해 마음이 합니다.
+[3464.19 - 3464.27] UNKNOWN: 현대해상
+[3465.58 - 3468.99] SPEAKER_05: 피부가 부들부들하니 온천 다녀온 것 같네 엄마 온천 갔다 왔어?
+[3469.37 - 3494.22] SPEAKER_31: 온천은 뭐하러 가 비드부들 바디워시 쓰면 되는데 우와 피부가 부들부들해 그치 피지가 55.6% 줄고 윤기는 17.6%나 증가한대 이름값 하네 몽잘 비드부들 바디워시 잘 만들었다 몽잘 아파 본 사람은 압니다 아프지 않은 일상이 얼마나 소중한지를 당신의 건강이 흔들릴 때 어떤 순간에도 당신을 지킵니다
+[3494.32 - 3500.35] SPEAKER_07: 줄기세포, 면역세포를 위한 EHL 바이오만의 솔루션은 이미 시작되었습니다.
+[3500.37 - 3512.97] SPEAKER_08: 당신을 지킵니다.
+[3512.99 - 3516.96] SPEAKER_08: 오늘 주문 내일 도착!
+[3516.98 - 3517.44] SPEAKER_08: 빠른 인쇄가 필요할 땐 와우프레스가 정답!
+[3518.33 - 3543.53] SPEAKER_19: 요즘 닥칠 어디 요즘 홍보 어디 요즘 인쇄 어디 인쇄는 월프레스 커져라 친환경 친환경 농산물 무농약으로 믿고 낙지 친환경 농산물 유기농으로 건강하자 친환경 농산물 자조금 관리위원회가 함께합니다 친환경 농산물
+[3545.77 - 3552.64] SPEAKER_08: 코입술 주름 개선을 위해 피부 깊은 곳부터 자연스럽게 PLLA로 부드럽게 채우다.
+[3552.66 - 3561.70] SPEAKER_08: 올리비아.
+[3561.72 - 3561.82] UNKNOWN: 올리비아.
+[3561.84 - 3561.94] UNKNOWN: 올리비아.
+[3561.96 - 3562.06] UNKNOWN: 올리비아.
+[3562.08 - 3562.44] SPEAKER_08: 올리비아.
+[3562.46 - 3563.98] SPEAKER_08: 의료기기 광고 심의 필.
+[3565.11 - 3591.19] SPEAKER_20: 입학이고 취업 졸업이고 취업 수원여자대학교 여성비도 양성 미래를 만드는 수원여자대학교 세상을 바꾸는 여성의 힘 수원 수원여자대학교 건강을 생각하는 위더스 생명을 존중하는 위더스
+[3592.80 - 3609.28] SPEAKER_19: 생명존중을 실천하는 위더스 제약에서 7시를 알려드립니다.
+[3721.98 - 3745.17] SPEAKER_02: 스포츠 스포츠 스포츠 스포츠
+[3873.67 - 3876.14] SPEAKER_17: 고맙습니다.
+[3888.71 - 3917.84] SPEAKER_23: 락 앤 얼터너티브 송스 차트 5위 롤라영의 메시 들었습니다 6위는 마리아스의 노원 노티스트 다시 한번 얘기 드립니다만 롤라팔로자에서 만나려고 했다가 못 만난 음악은 잘합니다 1, 2부에 나갔죠 7위부터 12위까지 다 나간 음악들이에요
+[3918.81 - 3921.91] SPEAKER_23: 지지 패러지의 세일러송이 7위.
+[3921.93 - 3924.26] SPEAKER_23: 젤리롤의 라이어가 8위.
+[3924.28 - 3927.10] SPEAKER_23: 9위는 존버 언드레스트.
+[3927.12 - 3931.32] SPEAKER_23: 10위가 역시 존버의 백 투 프렌즈.
+[3931.34 - 3935.73] SPEAKER_23: 11위는 잭 브라이언의 핑크 스카이스.
+[3935.75 - 3941.18] SPEAKER_23: 12위 마이스 스미스의 나이스 투 미치우입니다.
+[3941.30 - 3942.46] SPEAKER_23: 광고 뒤에 음악 듣겠습니다.
+[3943.67 - 3948.86] SPEAKER_28: 맑은 물이 흐르고 온도 변화가 크지 않은 까다로운 곳에서 자라는 와사비.
+[3949.64 - 3953.47] SPEAKER_28: 주비푸드는 그런 와사비의 뿌리 부분만을 엄선해 사용합니다.
+[3954.17 - 3958.98] SPEAKER_28: 소비자들을 존중하기에 좋은 원료, 정직한 표기를 약속합니다.
+[3959.66 - 3964.59] SPEAKER_18: 안전화가 이렇게 편해도 돼요?
+[3965.21 - 3976.27] SPEAKER_24: 나도 모르게 집에까지 신고 간다니까요 우린 발이 건강해야 하니까 안전화 아무거나 못 신어요 내가 안전해야 가족이 안심하지 그래서 난 꼭 워킹만 신어
+[3976.25 - 3988.53] SPEAKER_30: 워킷 안전화를 고집하는 확실한 이유가 있다 생각의 차이가 만드는 가치 워킷 워킷 안전화 최유라의 메디솔라 시대 여러분 오늘도 건강한 식사 하셨나요?
+[3989.07 - 3992.35] SPEAKER_30: 나를 위한 한 끼 챙기기 정말 어려우시죠?
+[3992.37 - 4002.36] SPEAKER_30: 전문가들이 만든 영양 밸런스 식단 메디솔라와 함께 해보세요 저 최유라도 케어 받는 똑똑한 맞춤 영양 식단은 메디솔라
+[4003.61 - 4009.57] SPEAKER_33: 어마나 세상에 이렇게 우리 두 대가 보니까 식자층들이 좀 많이 듣더라고.
+[4009.59 - 4014.54] SPEAKER_33: 아니 그 선생님들이 두 대를 듣는 이건 이유는 뭘까요?
+[4014.56 - 4015.74] SPEAKER_06: 안영미 씨 때문이죠.
+[4015.76 - 4016.38] SPEAKER_06: 저 때문에요?
+[4017.49 - 4019.25] SPEAKER_33: 네 매력이 있잖아요.
+[4019.27 - 4022.51] SPEAKER_33: 세상에 뭐 이렇게 느끼한 말투로 말씀하세요.
+[4022.53 - 4023.21] SPEAKER_33: 매력 있잖아요.
+[4026.92 - 4027.02] UNKNOWN: 고마워요.
+[4029.65 - 4058.88] SPEAKER_33: 한 번만 들어보셔요 안영미의 매력 가지가지 오만가지야 팔색조 팔색조 2시의 데이트 안영미입니다
+[4122.07 - 4137.78] SPEAKER_15: she said feel the beat forget that broken heart and oh i can feel the night slipping by away from me
+[4139.42 - 4157.53] SPEAKER_15: 고맙습니다.
+[4216.86 - 4223.86] SPEAKER_23: 12위 마이스 스미스의 Nice to meet you 들었습니다.
+[4223.88 - 4227.35] SPEAKER_23: 배출수익마켐프 4일간의 특집방송입니다.
+[4227.37 - 4230.27] SPEAKER_23: 2025년 팝뮤직 총결산.
+[4230.29 - 4234.47] SPEAKER_23: 오늘은 락차트 소개해드리고 있습니다.
+[4234.49 - 4239.04] SPEAKER_23: 1, 2부의 락송스 차트 소개해드렸고요.
+[4240.08 - 4241.78] SPEAKER_23: 락 앤 얼터너티브 송스 차트입니다.
+[4241.80 - 4242.84] SPEAKER_23: 차트가 겹친다고 얘기 드렸죠.
+[4243.96 - 4245.56] SPEAKER_23: 겹치는 노래들이 엄청 많습니다.
+[4246.40 - 4247.11] SPEAKER_23: 자, 13위.
+[4249.53 - 4254.31] SPEAKER_23: 브랜드레이크 앤 젤리롤의 Hot Fort Hallelujah.
+[4254.33 - 4255.59] SPEAKER_23: 이거 락송 차트에서 나갔죠.
+[4255.61 - 4261.78] SPEAKER_23: 14위는 맥스 맥나운의 A Lot More Free.
+[4261.80 - 4263.42] SPEAKER_23: 미국의 컴트리 싱어송라이터입니다.
+[4264.26 - 4268.73] SPEAKER_23: 맥스 맥나운의 A Lot More Free.
+[4268.75 - 4272.21] SPEAKER_23: 15위가 이모젠 힙의 Headlock.
+[4273.86 - 4302.31] SPEAKER_23: 이게 2006년에 발표한 곡인데 비디오 게임에 쓰이고 다시... 야 이거... 땡통 틱틱땡 그냥 틱톡인데요 이거 이렇게 해야 되는지 모르겠습니다 아무튼 2025년에 다시 인기를 얻었습니다 이머전 힙 헤드락 두 곡을 듣겠습니다 먼저 맥스 맥 라운 A lot more free
+[4350.97 - 4366.19] SPEAKER_09: I'm a little bit hurt
+[4417.84 - 4446.14] SPEAKER_09: from this mountain i can see so far rivers running like deep deep scars carrying the lifeblood through my veins is it crazy that i'm grateful for all the pain cause i'm a little bit hurt but i'll hide my heart free
+[4497.37 - 4525.88] SPEAKER_21: The weather's bringing it all back again Great adventures, faces in condensation I'm going outside to take it all in
+[4526.58 - 4539.12] SPEAKER_21: You say too late to start Got your heart in a headlock I don't believe any of it You say too late to start With your heart in a headlock
+[4606.28 - 4629.47] SPEAKER_18: I wanna drink you like machines do But you still got it, I'm just keepin' it up So you've been walking, you've been hiding And you kept cuffed it half the time I wanna drink you like machines do But you still got it, I'm just keepin' it up
+[4664.40 - 4682.74] SPEAKER_18: 자막 제공 배달의민족
+[4707.28 - 4735.61] SPEAKER_23: 15위를 차지한 이머전 힙의 헤드락 들었습니다 15위 락 앤 얼터너티브 송차트 15위입니다 2006년에 발표한 곡이 지금 다시 이렇게 인기를 얻는다는 것도 참 신기하고 대단하죠 요즘 그런 경우가 많습니다 14위 앞에 들으신 음악은 맥스 맥 라운의 A Lot More Free였고요 16위는
+[4735.73 - 4739.98] SPEAKER_23: 롤 모델, 미국의 싱어송 라이터입니다.
+[4740.00 - 4750.57] SPEAKER_23: Sally, When the Wine Runs Out 17위가 젤리롤의 Heart of Stone 두 곡 듣겠습니다.
+[4750.59 - 4756.00] SPEAKER_23: 16위 롤 모델, Sally, When the Wine Runs Out
+[4801.54 - 4804.03] SPEAKER_18: 고맙습니다.
+[4973.77 - 5001.50] SPEAKER_16: i need a different kind of dream i'm wide awake and i'm dreaming
+[5035.01 - 5062.99] SPEAKER_16: i need a different kinda drug i'm wide awake and i'm dreaming
+[5103.45 - 5132.60] SPEAKER_16: I'm wide awake and I'm dreamin' Wonder where and when I fell apart Oh, I fell apart I had enough of my demons But angels only meet you where you are And I'm in the dark At least for now, Lord, I ain't losin' hope That somehow you can make a heart of gold From this heart of stone
+[5133.85 - 5151.82] SPEAKER_16: 네.
+[5151.97 - 5156.71] SPEAKER_23: 17위 젤리롤의 Heart of Stone 들었습니다.
+[5156.73 - 5159.30] SPEAKER_23: 지금 소개해드리는 곡들은 락 차트에도 다 있는 곡들이에요.
+[5159.52 - 5162.96] SPEAKER_23: 이 곡은 락송스 차트 13위에 있는 곡이고요.
+[5162.98 - 5172.83] SPEAKER_23: 앞에 들으신 음악은 16위를 차지한 롤 모델 Selly When the Wine Runs Out.
+[5172.85 - 5176.44] SPEAKER_23: 이 음악이 미국에서 골드 레코드를 기록을 했다는데요.
+[5176.46 - 5178.50] SPEAKER_23: 대단하네요.
+[5181.13 - 5184.94] SPEAKER_23: 2025년 팝뮤직 총결산.
+[5184.95 - 5186.04] SPEAKER_23: 오늘은 락 차트입니다.
+[5186.38 - 5188.74] SPEAKER_23: 이어 랜드 차트.
+[5189.04 - 5193.09] SPEAKER_23: 락 앤 얼터노티브 송스 차트 18위.
+[5193.11 - 5196.26] SPEAKER_23: 락 송스 차트는 14위.
+[5196.27 - 5199.16] SPEAKER_23: 콜드 플레이.
+[5199.18 - 5201.24] SPEAKER_23: 예전 곡입니다.
+[5201.26 - 5205.75] SPEAKER_23: 패라시추 앨범 수록곡에 스팍스라고 많이들 들어보셨을 거예요.
+[5206.26 - 5213.61] SPEAKER_23: 이 음악도 최근에 틱톡에서 마이럴되면서 다시 인기를 얻었습니다.
+[5213.75 - 5218.00] SPEAKER_23: 콜드플레이의 스팍스.
+[5218.10 - 5220.18] SPEAKER_23: 시간이 다 됐군요.
+[5220.20 - 5224.03] SPEAKER_23: 광고 뒤에 처음부터 다시 보내드립니다.
+[5255.23 - 5280.96] SPEAKER_10: I know what you'll say You say, oh, someone you know But I promise you this I'll always look out for you
+[5321.17 - 5328.94] SPEAKER_05: MBC FM4U 피부가 부들부들하니 온천 다녀온 것 같네 엄마 온천 갔다 왔어?
+[5329.32 - 5349.49] SPEAKER_06: 온천은 뭐하러 가 비드부들 바디워시 쓰면 되는데 우와 피부가 부들부들해 그치 피지가 55.6% 줄고 윤기는 17.6%나 증가한대 이름값 하네 몽잘 비드부들 바디워시 잘 만들었다 몽잘 비대 살 땐 당당하게 3년 애플 비대 애플
+[5349.71 - 5364.21] SPEAKER_22: 전국 무료 설치는 애플 비데 온가족 믿고 쓰는 애플 비데 3년 무상 AS부터 전국 무료 설치까지 비데는 역시 당당하게 3년 애플 비데
+[5365.00 - 5376.72] SPEAKER_19: 커져라 친환경!
+[5376.74 - 5383.50] SPEAKER_19: 친환경 농산물 무농약으로 미포 막지 친환경 농산물 유기농으로 건강하자 친환경 농산물 자조금 관리위원회가 함께합니다 친환경 농산물
+[5385.38 - 5411.25] SPEAKER_19: 한총물 대박날까 불안하네.
+[5411.43 - 5411.49] UNKNOWN: 한총물
+[5414.63 - 5420.18] SPEAKER_03: 언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활입니다.
+[5420.20 - 5423.38] SPEAKER_04: 내일은 추위 대신에 먼지가 기승을 부리겠습니다.
+[5423.74 - 5428.49] SPEAKER_04: 서풍을 타고 미세먼지가 유입되면서 서쪽을 중심으로 공기가 탁해지겠습니다.
+[5428.51 - 5432.58] SPEAKER_04: 그래도 오래 머물진 않겠고 오후부터는 서서히 해소될 것으로 보입니다.
+[5433.16 - 5435.42] SPEAKER_04: 또 수도권과 일부 지역... 일부 지역...
+[5435.40 - 5465.41] SPEAKER_04: 기상캐스터 배혜지
+[5465.39 - 5472.51] SPEAKER_03: 언제나 당신 곁에 MG 새마을금고와 함께하는 날씨와 생활이었습니다.
+[5515.76 - 5541.56] SPEAKER_10: I know what you'll say You say, oh, someone you know But I promise you this I'll always look out for you
+[5544.63 - 5561.76] SPEAKER_10: That's what I do I see you I see you
+[5702.13 - 5706.17] SPEAKER_23: 콜드플레이의 스팍스 들었습니다.
+[5706.19 - 5710.34] SPEAKER_23: 18위, 락송 차트에서는 14위.
+[5710.36 - 5717.67] SPEAKER_23: 락 앤 얼터너티브 송치 차트 19위는 슬립토큰의 캐러멜입니다.
+[5717.69 - 5723.28] SPEAKER_23: 그리고 20위는 잭 브라이언의 하이로드.
+[5723.30 - 5724.88] SPEAKER_23: 두 곡을 계속 듣겠습니다.
+[5724.90 - 5728.71] SPEAKER_23: 먼저 19위, 슬립토큰의 캐러멜.
+[5996.33 - 6015.01] SPEAKER_14: I thought I got better but maybe I didn't
+[6028.90 - 6057.64] SPEAKER_11: I'd roll a white lace bra that makes you fall in love You left your blue jeans in my pickup truck New York this time of year ain't good for me Cause all my friends lack self control and empathy All the boys are crawling in some shithole in the wall again I miss this place more than I miss my home
+[6059.99 - 6089.85] SPEAKER_11: Everyone is telling me that I need help or therapy But all I need is to be left alone She's bound to come back and haunt you forever There's ghosts in the windows and walls I'm waiting by the telephone all fucking night For someone that ain't ever gonna call home
+[6097.88 - 6127.55] SPEAKER_11: remember telling me i was gonna hit the big time you died guess you told god it was true remember sitting on your porch and talking about your old regrets and tossing wild and bad things to your brain it seems the quiet dreams have gotten much too heavy but i'm home now and i'll hold you through the pain
+[6129.67 - 6149.11] SPEAKER_11: She's bound to come back and haunt you forever There's ghosts in the windows and walls I waited by her telephone all fucking night For someone that ain't ever gonna call home
+[6191.30 - 6210.14] SPEAKER_11: New York this time of year ain't good for me Cause all my friends lack self-control and empathy
+[6214.10 - 6226.84] SPEAKER_23: Rock and Alternative Songs 차트 19위 슬립토큰의 Caramel 그리고 20위 잭 브라이언의 High Road 두 곡 들었습니다.
+[6227.26 - 6228.02] SPEAKER_23: 다시 락 차트로 돌아옵니다.
+[6228.70 - 6236.87] SPEAKER_23: 락 송스 차트 11위부터 15위까지는 다 들은 곡입니다.
+[6236.95 - 6239.78] SPEAKER_23: 락 송스 차트로 다시 돌아옵니다.
+[6240.14 - 6241.64] SPEAKER_23: 락 송스 차트 16위
+[6243.14 - 6247.35] SPEAKER_23: 이거 진짜 와이파이 스켈레톤.
+[6248.33 - 6257.78] SPEAKER_23: 와이파이 스켈레톤은 미국의 래퍼인데 2025년 5월 5일에 21살에 젊은 나이로 사망했고요.
+[6258.43 - 6260.21] SPEAKER_23: 런던 출신 인디 뮤지션.
+[6260.37 - 6263.81] SPEAKER_23: 이 친구는 본명은 오스카 코지엘인데
+[6264.93 - 6281.21] SPEAKER_23: 예명을 I wanna be a jack-o-lantern 이런 이름을 사용합니다 Nope, you're too late.
+[6281.23 - 6285.60] SPEAKER_23: I already died.
+[6285.62 - 6290.75] SPEAKER_23: 16위에 있습니다 17위는 MGK의 클리셰 두 곡을 듣겠습니다
+[6299.42 - 6310.46] SPEAKER_18: 아멘
+[6390.19 - 6415.91] SPEAKER_13: 자막 제공 배달의민족
+[6487.76 - 6515.93] SPEAKER_13: I don't wanna say this wrong Tell me would you stay with me Maybe we could make this home You should run away with me Even if you're better off alone Tell me would you wait Wait for me Tell me would you wait Wait for me Tell me would you wait for me Baby I'm a rolling stone
+[6518.03 - 6531.79] SPEAKER_13: I got a lot of right in me But I don't wanna say this wrong I don't wanna say this wrong Tell me would you wait for me Baby I'm a rolling stone
+[6556.74 - 6563.44] SPEAKER_23: 락송스 차트 17위 MGK 머신건 켈리입니다.
+[6563.92 - 6564.18] SPEAKER_23: 클리셰이.
+[6564.20 - 6565.89] SPEAKER_23: 프랑스어로는 클리셰이.
+[6565.91 - 6568.09] SPEAKER_23: 우리도 클리셰이.
+[6568.11 - 6569.67] SPEAKER_23: 미국 친구들은 클리셰이.
+[6572.35 - 6576.14] SPEAKER_23: 우리는 클리셰.
+[6576.24 - 6578.46] SPEAKER_23: MGK, 머신건 켈리.
+[6578.48 - 6581.89] SPEAKER_23: 16위, 앞에 들으시는 음악이 깁니다.
+[6582.11 - 6588.08] SPEAKER_23: 와이파이 스켈레톤 and I wanna be a jack-o'-lantern.
+[6588.10 - 6595.41] SPEAKER_23: 노래 제목은 Nope, You're Too Late, I Already Died.
+[6595.43 - 6595.93] SPEAKER_23: 배철수의 음악 캠프입니다.
+[6597.67 - 6602.51] SPEAKER_23: 2025년 팝뮤직 총결산 오늘 락차트 결산해드리고 있습니다.
+[6603.07 - 6605.35] SPEAKER_23: 안녕하십니까.
+[6605.87 - 6608.87] SPEAKER_12: 경기주택도시공사 사장 김용진입니다.
+[6608.89 - 6616.30] SPEAKER_12: 지난날 우리는 세대가 함께 어우러지고 서로가 서로를 돌보는 따뜻한 일상이 있었습니다.
+[6616.32 - 6620.97] SPEAKER_12: 우리 경기주택도시공사 GH가 그 마음을 다시 잊고자 합니다.
+[6621.61 - 6628.21] SPEAKER_12: 누구도 소외되지 않고 배움과 건강, 여가와 돌봄이 이웃과 함께 이어지는 곳.
+[6628.61 - 6639.13] SPEAKER_12: 단순한 집을 넘어 사람과 사람이 어울려 함께 살아가는 문화를 만드는 공간혁신 플랫폼 경기유니티 GH가 시작합니다.
+[6639.15 - 6650.49] SPEAKER_33: 모두의 커뮤니티 경기유니티 GH 경기주택도시공사 잠시 후 8시부터 김이나의 별이 빛나는 밤에가 방송됩니다.
+[6650.51 - 6652.94] SPEAKER_33: 어제다 못한 얘기 오늘 마저 나눠요.
+[6658.92 - 6686.48] SPEAKER_23: 배철수의 음악캠프입니다 2025년 판비직 총결산 오늘 락차트 결산 해드렸습니다 끝곡으로 락송스 차트 18위에 있는 라디오헤드의 Let Down입니다 5K 컴퓨터 앨범의 수록곡이고요 이것도 최근에 다시 바이럴되면서 인기를 얻고 있습니다 라디오헤드의 Let Down 들으면서 마칩니다
+[6687.46 - 6691.05] SPEAKER_23: 내일은 편안하게 재즈음악 감상하시면 되겠습니다.
+[6691.87 - 6699.18] SPEAKER_23: 프로듀서 송명석, 작가 김경옥, 배순탁, 박소영, 디스크자키 배철수입니다.
+[6699.20 - 6701.81] SPEAKER_23: 함께 해주신 여러분 고맙습니다.
+[6752.49 - 6754.62] SPEAKER_18: 감사합니다.
+[6946.73 - 6969.93] UNKNOWN: 잠깐만
+[6974.92 - 6975.66] SPEAKER_01: 안녕하세요.
+[6975.95 - 6978.19] SPEAKER_01: 배우 원진아입니다.
+[6978.21 - 6984.50] SPEAKER_01: MBC 금토드라마 판사 이한영에서 불같고 솔직한 성격의 김진아 검사를 연기했습니다.
+[6984.52 - 6987.11] SPEAKER_01: 현실의 저는 그렇게 용기가 많진 않은데요.
+[6987.93 - 6994.18] SPEAKER_01: 김진아는 거악과 막닥들였을 때 주눅들지 않고 똑같이 되받아치는 용감한 사람이에요.
+[6994.90 - 7011.98] SPEAKER_01: 제가 김진아를 연기하는 동안 현실의 저와 다른 모습에서 카타르시스를 느꼈던 것처럼 속 시원하게 살고 하고 싶은 말을 다하는 김진아의 용기를 통해서 많은 분들에게 대리만족을 선사하길 바랍니다.
+[7021.25 - 7027.70] SPEAKER_00: 이 캠페인은 언제나 당신 곁에 MG 새마을금고와 함께합니다.
+[7027.82 - 7035.75] SPEAKER_07: 지금 시각은 7시 57분입니다.
+[7038.14 - 7044.91] SPEAKER_27: 현대해상
+[7045.19 - 7064.26] SPEAKER_19: 모든 인쇄 가능한 성원에드피아 온라인 줌은 간편한 성원에드피아 누구든지 어디서나 쉽고 빠르게 인쇄의 유토피아 성원에드피아 디지털 인쇄도 역시 성원에드피아 국민인쇄 성원에드피아
+[7066.52 - 7083.67] SPEAKER_19: 매일 아침 10시 새롭게 선보이는 신상품
+[7085.29 - 7104.66] SPEAKER_06: 숭실사이버대에서 숭실력자 나의 꿈을 숭 실력발이 쏴 숭실력자 내 실력이 숭 실전으로 쏴 쏴 쏴 숭쏴 실전형 커리큘럼 숭실력자 숭쏴 숭실사이버대 지금 수시모집중
+[7105.11 - 7127.88] SPEAKER_22: 3년 무상 AS부터 전국 무료 설치까지 비대는 역시 당당하게 3년 애플 비대 애플 마사지가 필요할 땐 한 핀
+[7145.24 - 7164.25] SPEAKER_08: 한 번쯤 나를 돌아보고 싶은 순간 그 마음을 헤아리는 기술 과학으로 섬세함을 담은 그 이름 올리디아
+[7165.07 - 7194.57] SPEAKER_20: 입학이고 취업 졸업이고 취업 수원여자대학교 여성기 더 양성 미래를 만드는 수원여자대학교 세상을 바꾸는 여성의 힘 수원 수원여자대학교 아파 본 사람은 압니다 아프지 않은 일상이 얼마나 소중한지를 당신의 건강이 흔들릴 때 어떤 순간에도 당신을 지킵니다
+[7194.69 - 7201.39] SPEAKER_07: 줄기세포, 면역세포를 위한 EHL 바이오만의 솔루션은 이미 시작되었습니다.
+[7205.18 - 7205.98] SPEAKER_07: 당신을 지킵니다.

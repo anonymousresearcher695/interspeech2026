@@ -1,0 +1,19 @@
+# Environment variables (API keys, tokens)
+.env
+.env.local
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Data files (radio MP3, large files)
+*.mp3
+*.wav
+
+# OS
+.DS_Store

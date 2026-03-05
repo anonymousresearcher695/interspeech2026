@@ -41,7 +41,7 @@ Audio (.mp3)
 **`dj/dj_stat.py`** — Labels each segment using the following heuristics:
 - **DJ**: Among the top-3 speakers by total duration (excluding those appearing in the first 2 seconds, which are typically time-signal or pre-roll), the one who speaks earliest is identified as the DJ.
 - **GUEST**: Speakers who alternate turns with the DJ at least 20 times (or above a relative threshold).
-- **MUSIC**: Segments inserted from long silence gaps (>= 100 s), plus segments dominated by English lyrics (>10 English chars, <5 Korean chars).
+- **MUSIC**: Segments inserted from long silence gaps (>= 100 s).
 - **AD**: All remaining unlabeled segments.
 
 **`dj/merge_block.py`** — Merges consecutive same-type segments into blocks. Adjacent DJ and GUEST segments are merged into `DJ/GUEST` blocks.

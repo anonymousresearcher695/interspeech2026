@@ -142,6 +142,18 @@ Sample outputs for 30 broadcast episodes (KBS, MBC, SBS) are provided in `data_s
 
 The raw audio files are not included due to copyright restrictions.
 
+<img width="3600" height="500" alt="image" src="https://github.com/user-attachments/assets/5770cd80-83f4-4974-8741-3fbf2ce066c6" />
+<img width="3600" height="500" alt="image" src="https://github.com/user-attachments/assets/aa8b132e-04da-4c51-8299-6699de6c1a37" />
+<img width="3600" height="500" alt="image" src="https://github.com/user-attachments/assets/d79bd1e3-1e01-479d-9ae1-bf7a686edd5f" />
+
+
+
+
+<img width="2969" height="2059" alt="image" src="https://github.com/user-attachments/assets/29f4ede9-80c7-4f57-b179-717fe4a494b9" />
+<img width="2969" height="2059" alt="image" src="https://github.com/user-attachments/assets/2e01fbeb-eaf5-41d9-bf7f-44176a44f1bf" />
+
+
+
 ---
 
 ## License

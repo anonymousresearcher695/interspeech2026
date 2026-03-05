@@ -129,7 +129,7 @@ python music/extract_playlist.py MBC 20241124
 
 ## Data
 
-Sample outputs for 14 broadcast episodes (MBC, KBS) are provided in `data_sample/DJ/output/`.
+Sample outputs for 30 broadcast episodes (KBS, MBC, SBS) are provided in `data_sample`.
 
 The raw audio files are not included due to copyright restrictions.
 

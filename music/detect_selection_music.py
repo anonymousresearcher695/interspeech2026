@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-선곡 음악 탐지 - 정밀 컷팅 + 페이드아웃 탐지 분리 버전
-특징: 
-1. 통째로 평균 내는 방식의 오류(DJ 멘트 딸려옴) 해결.
-2. 10초 스무딩으로 큰 틀을 잡고, 밀린 시간(2.5초)을 패딩으로 복구.
-3. [NEW] 노래 끝부분 페이드아웃(1.5초 이상의 볼륨 급감)을 정밀 탐지하여 이어져 버린 광고/멘트를 칼같이 잘라냄.
-"""
 import librosa
 import numpy as np
 import pandas as pd
@@ -22,7 +14,6 @@ class SelectionMusicDetector:
         self.vocals_mp3 = f"{self.base_dir}/{date_str}_vocals.mp3"
     
     def detect(self):
-        """메인 탐지 로직"""
         print(f"\n{'='*70}")
         print(f"🎵 Selection Music Detection: {self.date_str}")
         print(f"{'='*70}\n")
@@ -49,9 +40,9 @@ class SelectionMusicDetector:
             if refined_segs:
                 for j, r_seg in enumerate(refined_segs):
                     selections.append(r_seg)
-                    print(f"      → ✅ Valid Music {j+1}: {r_seg['start']:.1f}s - {r_seg['end']:.1f}s (duration: {r_seg['duration']:.1f}s)")
+                    print(f"      → Valid Music {j+1}: {r_seg['start']:.1f}s - {r_seg['end']:.1f}s (duration: {r_seg['duration']:.1f}s)")
             else:
-                print(f"      → ❌ DJ/Ad Only (모두 잘려나감)")
+                print(f"      → DJ/Ad Only")
         
         if selections:
             print(f"\n   Final segments:")
@@ -59,7 +50,7 @@ class SelectionMusicDetector:
                 print(f"      [{i}] {seg['start']:.1f}s - {seg['end']:.1f}s "
                       f"(duration: {seg['duration']:.1f}s)")
         else:
-            print("\n   ⚠️ No valid selection music found.")
+            print("\n   No valid selection music found.")
         
         self.save_timestamps(selections)
         self.print_statistics(selections)
@@ -108,7 +99,6 @@ class SelectionMusicDetector:
     
     def refine_and_split_segment(self, segment):
         try:
-            # 1. 오디오 로드 및 RMS/dB 변환
             vocals, sr = librosa.load(self.vocals_mp3, offset=segment['start'], duration=segment['duration'])
             musics, _ = librosa.load(self.musics_mp3, offset=segment['start'], duration=segment['duration'])
             
@@ -126,7 +116,7 @@ class SelectionMusicDetector:
             m_db = librosa.amplitude_to_db(m_rms, ref=1.0)
             m_mean = np.mean(m_db)
             
-            # 2. 프레임별 판별 및 10초 스무딩
+            
             is_active = m_db > (m_mean - 15)
             is_inst = is_active & (v_db < (m_db - 20))
             is_song = is_active & (np.abs(m_db - v_db) <= 15)
@@ -141,7 +131,7 @@ class SelectionMusicDetector:
             if len(valid_indices) == 0:
                 return []
                 
-            # 3. 1차 분할 (15초 이상 긴 멘트 갭 기준)
+            
             gap_frames = int(15 / frame_duration)
             split_points = np.where(np.diff(valid_indices) > gap_frames)[0]
             
@@ -152,7 +142,7 @@ class SelectionMusicDetector:
                 start_idx = sp + 1
             sub_segments.append((valid_indices[start_idx], valid_indices[-1]))
             
-            # 4. 엣지 패딩 복구 (2.5초)
+            
             padding_frames = int(2.5 / frame_duration)
             max_frame = len(m_db) - 1
             padded_segments = []
@@ -161,15 +151,13 @@ class SelectionMusicDetector:
                 p_e = min(max_frame, e_idx + padding_frames)
                 padded_segments.append((p_s, p_e))
                 
-            # 5. [NEW] 페이드아웃 및 광고 분할 로직 (V자 계곡 탐지기)
-            # - 복구된 덩어리 내에서 1.5초 이상 에너지가 훅 떨어지는 곳을 찾아 가위질합니다.
+        
             final_segments = []
-            dip_frames_threshold = int(1.5 / frame_duration) # 1.5초
+            dip_frames_threshold = int(1.5 / frame_duration)
             
             for s_idx, e_idx in padded_segments:
                 seg_db = m_db[s_idx:e_idx+1]
                 
-                # 평균보다 15dB 낮거나 -40dB 이하로 뚝 떨어지는 구간을 '침묵/페이드아웃'으로 간주
                 is_dip = (seg_db < (m_mean - 15)) | (seg_db < -40)
                 dip_indices = np.where(is_dip)[0]
                 
@@ -186,23 +174,21 @@ class SelectionMusicDetector:
                 last_idx = 0
                 for b_start, b_end in zip(block_starts, block_ends):
                     if (b_end - b_start + 1) >= dip_frames_threshold:
-                        # 1.5초 이상의 V자 계곡을 발견하면 그 직전에서 과감하게 자릅니다.
                         if b_start > last_idx:
                             final_segments.append((s_idx + last_idx, s_idx + b_start - 1))
                         last_idx = b_end + 1
                         
-                # 남은 꼬리표 추가
+                
                 if last_idx <= (e_idx - s_idx):
                     final_segments.append((s_idx + last_idx, e_idx))
                     
-            # 6. 최종 시간 변환 및 60초 필터링
             refined_segs = []
             for s_idx, e_idx in final_segments:
                 s_time = segment['start'] + (s_idx * frame_duration)
                 e_time = segment['start'] + (e_idx * frame_duration)
                 dur = e_time - s_time
                 
-                if dur >= 120:
+                if dur >= 100:
                     refined_segs.append({
                         'start': s_time,
                         'end': e_time,
